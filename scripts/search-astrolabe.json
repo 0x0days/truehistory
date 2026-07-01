@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval brass astrolabe museum photograph 12th century Islamic astronomical instrument"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "medieval brass astrolabe museum photograph 12th century Islamic astronomical instrument",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ac19159abefa.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1080px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e8449e3f74ab.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "2995px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ae88f6bf6dbc.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "2995px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3df5139f0724.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/37381e676f6c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3edc1dbd01d5.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1080px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/35853c51542b.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "855px",
+      "original_height": "939px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d09be21543da.jpg",
+      "caption": "",
+      "source": "M16 Nebula",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

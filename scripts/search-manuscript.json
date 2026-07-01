@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Arabic medieval scientific manuscript page astronomical diagrams geometry"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Arabic medieval scientific manuscript page astronomical diagrams geometry",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3a1ede68c9a8.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1079px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8098ebfc09be.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1242px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/aaad8b4a25b0.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1280px",
+      "original_height": "902px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8d36f7825f62.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "2048px",
+      "original_height": "3596px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ecb696b79da2.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1315px",
+      "original_height": "1751px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/779aacb971d1.jpg",
+      "caption": "",
+      "source": "Grida",
+      "original_width": "2265px",
+      "original_height": "1812px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/65fcb02ef98a.jpg",
+      "caption": "",
+      "source": "Different Visions",
+      "original_width": "1024px",
+      "original_height": "823px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f32d4621cd5d.jpg",
+      "caption": "",
+      "source": "Caravanserai - Substack",
+      "original_width": "1041px",
+      "original_height": "1029px"
+    }
+  ]
+}

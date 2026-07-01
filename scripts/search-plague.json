@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Nuremberg Chronicles medieval plague illustration disease historical"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Nuremberg Chronicles medieval plague illustration disease historical",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/96970657ca2f.jpg",
+      "caption": "",
+      "source": "The Jerusalem Post",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b309c5133278.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1028px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/38eee87ad883.jpg",
+      "caption": "",
+      "source": "The Holocaust Explained",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/059bb2c9e785.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1005px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a1609a4c24fd.jpeg",
+      "caption": "",
+      "source": "DailyArt Magazine",
+      "original_width": "2022px",
+      "original_height": "1429px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/469030d60955.jpg",
+      "caption": "",
+      "source": "Economic History Society",
+      "original_width": "3348px",
+      "original_height": "2356px"
+    }
+  ]
+}

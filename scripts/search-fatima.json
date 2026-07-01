@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Fatima al-Fehri al-Qarawiyyin University Fez Morocco oldest university"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Fatima al-Fehri al-Qarawiyyin University Fez Morocco oldest university",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eec323dc7969.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4985016259f9.jpg",
+      "caption": "",
+      "source": "HistoryHeroines | the forgotten women in history",
+      "original_width": "3968px",
+      "original_height": "2976px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c86d465d7e37.jpg",
+      "caption": "",
+      "source": "CNN",
+      "original_width": "3042px",
+      "original_height": "1711px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b2d0525a1bcf.jpeg",
+      "caption": "",
+      "source": "Cairo Scene",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/77f9a7aaf478.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "2048px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c36cef198504.jpg",
+      "caption": "",
+      "source": "HistoryHeroines | the forgotten women in history",
+      "original_width": "940px",
+      "original_height": "1126px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4bfcb8edfd79.png",
+      "caption": "",
+      "source": "World History Encyclopedia",
+      "original_width": "2400px",
+      "original_height": "1254px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/62f096611f37.jpg",
+      "caption": "",
+      "source": "Issuu",
+      "original_width": "1445px",
+      "original_height": "2048px"
+    }
+  ]
+}

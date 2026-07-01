@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Avicenna Canon of Medicine Latin translation medieval manuscript anatomy illustration"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Avicenna Canon of Medicine Latin translation medieval manuscript anatomy illustration",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cbed815d26f2.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "874px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4064d11ae393.jpg",
+      "caption": "",
+      "source": "The Conversation",
+      "original_width": "1000px",
+      "original_height": "828px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/942e061c2e4f.jpg",
+      "caption": "",
+      "source": "Facsimile Finder",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8cb1b4c5bf16.jpg",
+      "caption": "",
+      "source": "Flashbak",
+      "original_width": "1575px",
+      "original_height": "1050px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bb71ef72d706.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "960px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dcba19cb1317.jpg",
+      "caption": "",
+      "source": "Ziereis Facsimiles",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Archimedes palimpsest manuscript original ancient Greek mathematics"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Archimedes palimpsest manuscript original ancient Greek mathematics",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3810cdbd538c.jpeg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1400px",
+      "original_height": "819px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/23917efd5c06.jpg",
+      "caption": "",
+      "source": "Smithsonian Magazine",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e411702b7124.jpg",
+      "caption": "",
+      "source": "Phys.org",
+      "original_width": "1280px",
+      "original_height": "851px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0b5c09098840.jpg",
+      "caption": "",
+      "source": "MeisterDrucke",
+      "original_width": "1260px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e6dd893d3375.jpg",
+      "caption": "",
+      "source": "France 24",
+      "original_width": "1278px",
+      "original_height": "2275px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/63cc51239980.jpg",
+      "caption": "",
+      "source": "France 24",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

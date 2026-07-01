@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Newton Principia Mathematica 1687 first edition title page original book"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Newton Principia Mathematica 1687 first edition title page original book",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c1936c548bdb.jpg",
+      "caption": "",
+      "source": "The Guardian",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/86dc091ed626.jpg",
+      "caption": "",
+      "source": "AbeBooks",
+      "original_width": "1636px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/20f1da3edda4.jpg",
+      "caption": "",
+      "source": "Biblio",
+      "original_width": "4032px",
+      "original_height": "2668px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c2a90812b091.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c95183d26eec.jpg",
+      "caption": "",
+      "source": "Corpus Newtonicum - WordPress.com",
+      "original_width": "3568px",
+      "original_height": "2386px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0c624fcbbb2b.jpg",
+      "caption": "",
+      "source": "Auction Calendar - Upcoming Auctions & Events | Christie's",
+      "original_width": "2335px",
+      "original_height": "3200px"
+    }
+  ]
+}

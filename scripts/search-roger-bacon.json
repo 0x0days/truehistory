@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Roger Bacon Opus Majus medieval Latin manuscript experimental science"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Roger Bacon Opus Majus medieval Latin manuscript experimental science",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1d03e3004368.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/49f3580338d3.jpg",
+      "caption": "",
+      "source": "The James Lind Library",
+      "original_width": "798px",
+      "original_height": "2660px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1b1c24e4cf1e.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5f58aa079f6d.jpg",
+      "caption": "",
+      "source": "AbeBooks",
+      "original_width": "4002px",
+      "original_height": "2812px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c94355ecf21d.jpg",
+      "caption": "",
+      "source": "AbeBooks",
+      "original_width": "1626px",
+      "original_height": "3266px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/419da5d99892.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "902px",
+      "original_height": "1296px"
+    }
+  ]
+}

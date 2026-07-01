@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Crusades siege Constantinople 1204 medieval illuminated manuscript"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Crusades siege Constantinople 1204 medieval illuminated manuscript",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/55c66082f8c6.jpg",
+      "caption": "",
+      "source": "byzantinemanuscripts - WordPress.com",
+      "original_width": "808px",
+      "original_height": "1215px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ad1596555aea.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "858px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f58611dc58fc.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "968px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/96290da9e4a6.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1163px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0c5326ad493d.jpg",
+      "caption": "",
+      "source": "MeisterDrucke",
+      "original_width": "1260px",
+      "original_height": "1001px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e73031fd4d7b.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}

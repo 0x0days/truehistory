@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Leonardo da Vinci camera obscura codex notebook sketch illustration"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Leonardo da Vinci camera obscura codex notebook sketch illustration",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a25e21960d0e.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "957px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/72fe431b9e17.jpg",
+      "caption": "",
+      "source": "x.com",
+      "original_width": "1197px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d3975ed2510d.jpg",
+      "caption": "",
+      "source": "HubPages",
+      "original_width": "872px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1795c9289449.jpg",
+      "caption": "",
+      "source": "HubPages",
+      "original_width": "1200px",
+      "original_height": "855px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/19a9905ce2ca.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "887px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/715368cc530c.jpg",
+      "caption": "",
+      "source": "Anthony Waichulis",
+      "original_width": "1600px",
+      "original_height": "772px"
+    }
+  ]
+}

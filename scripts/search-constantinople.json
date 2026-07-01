@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "fall of Constantinople 1453 historical illustration Ottoman conquest Greek scholars fleeing"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "fall of Constantinople 1453 historical illustration Ottoman conquest Greek scholars fleeing",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/971dd66746bf.jpg",
+      "caption": "",
+      "source": "Qalam Global",
+      "original_width": "2016px",
+      "original_height": "1344px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2b2e7dafabeb.jpg",
+      "caption": "",
+      "source": "Büyük İstanbul Tarihi",
+      "original_width": "1170px",
+      "original_height": "780px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3416a62c7c7d.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "924px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/486e0c57cf20.jpg",
+      "caption": "",
+      "source": "Tumblr",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bc242f89fcb4.jpg",
+      "caption": "",
+      "source": "Graphic Firing Table",
+      "original_width": "1230px",
+      "original_height": "802px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/607b7ff05e4e.jpg",
+      "caption": "",
+      "source": "The Unravel",
+      "original_width": "1800px",
+      "original_height": "1298px"
+    }
+  ]
+}

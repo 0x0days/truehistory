@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Islamic university madrasa manuscript scholars studying Arabic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval Islamic university madrasa manuscript scholars studying Arabic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f57ed08722fa.png",
+      "caption": "",
+      "source": "Maydan -",
+      "original_width": "1808px",
+      "original_height": "1138px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ddb5be129ed3.jpg",
+      "caption": "",
+      "source": "UCLA Library",
+      "original_width": "2560px",
+      "original_height": "1786px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3354f4378102.jpeg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2000px",
+      "original_height": "1352px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f91259d0be78.jpg",
+      "caption": "",
+      "source": "UCLA Library",
+      "original_width": "1536px",
+      "original_height": "1072px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0d4e02bbb00a.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2032px",
+      "original_height": "1384px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c19f2e7fdba5.jpg",
+      "caption": "",
+      "source": "UCLA Library",
+      "original_width": "1035px",
+      "original_height": "1280px"
+    }
+  ]
+}

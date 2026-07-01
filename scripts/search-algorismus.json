@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Latin algorismus manuscript mathematical text Latin translation Arabic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval Latin algorismus manuscript mathematical text Latin translation Arabic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a93e645a8f68.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2059px",
+      "original_height": "3476px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/66f3e73aace0.jpg",
+      "caption": "",
+      "source": "Tumblr",
+      "original_width": "1655px",
+      "original_height": "930px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/af55ef0336ba.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2214px",
+      "original_height": "2275px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ebe27f0e4c32.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1879px",
+      "original_height": "2698px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5d9fea04b196.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/417b3ccb3b20.jpg",
+      "caption": "",
+      "source": "Christie's",
+      "original_width": "3200px",
+      "original_height": "2267px"
+    }
+  ]
+}

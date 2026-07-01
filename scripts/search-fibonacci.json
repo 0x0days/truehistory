@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Fibonacci Liber Abaci 1202 manuscript first edition Hindu Arabic numerals"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Fibonacci Liber Abaci 1202 manuscript first edition Hindu Arabic numerals",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6846b17bf594.jpg",
+      "caption": "",
+      "source": "Facsimile Finder",
+      "original_width": "2100px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0dd4e37257e3.jpg",
+      "caption": "",
+      "source": "Facsimile Finder",
+      "original_width": "2100px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/52d9788c77d3.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1191px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/494f30fa4ea2.jpeg",
+      "caption": "",
+      "source": "Book Post - Substack",
+      "original_width": "1192px",
+      "original_height": "857px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ba7a47aa4980.jpg",
+      "caption": "",
+      "source": "SOPHIA ∑ RARE BOOKS",
+      "original_width": "3292px",
+      "original_height": "4372px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cbbe569fafc7.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1828px",
+      "original_height": "983px"
+    }
+  ]
+}

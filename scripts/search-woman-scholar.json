@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Islamic manuscript illustration woman scholar reading library Persian miniature"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval Islamic manuscript illustration woman scholar reading library Persian miniature",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d1a95a97e5fa.jpg",
+      "caption": "",
+      "source": "Art House SF",
+      "original_width": "1080px",
+      "original_height": "1340px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2bc6ea40af0f.jpg",
+      "caption": "",
+      "source": "Christie's",
+      "original_width": "2139px",
+      "original_height": "3200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1d87358f7f10.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "924px",
+      "original_height": "1151px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b22f39af9339.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "808px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/66b11b8cfbb8.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1257px",
+      "original_height": "682px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/533049f48d52.png",
+      "caption": "",
+      "source": "Zahra's Blog + Brown Lady Art Collective - WordPress.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

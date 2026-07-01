@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval European bloodletting four humors medical illustration historical"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval European bloodletting four humors medical illustration historical",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/132ffe74bae2.jpg",
+      "caption": "",
+      "source": "History.com",
+      "original_width": "3840px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/382f38cdb76f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1011px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/16bd68d03077.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "739px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1895ea4aee19.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "783px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4845d8aa9449.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1600px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c4613467a564.jpg",
+      "caption": "",
+      "source": "BBC",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}

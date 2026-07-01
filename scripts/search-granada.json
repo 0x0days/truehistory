@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "fall of Granada 1492 medieval library burning illustration historical"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "fall of Granada 1492 medieval library burning illustration historical",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a7bf3788ac2a.jpg",
+      "caption": "",
+      "source": "INVICTUS",
+      "original_width": "2440px",
+      "original_height": "1584px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c9348382d461.jpg",
+      "caption": "",
+      "source": "INVICTUS",
+      "original_width": "892px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0f7768748f60.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1583px",
+      "original_height": "1098px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3ecfddbf141a.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/691f5f4553bf.png",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4f85582b4459.jpg",
+      "caption": "",
+      "source": "Atlas Obscura",
+      "original_width": "1200px",
+      "original_height": "830px"
+    }
+  ]
+}

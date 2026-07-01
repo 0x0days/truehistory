@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "British Library colonial era Arabic Persian manuscript acquisition India"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "British Library colonial era Arabic Persian manuscript acquisition India",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5e3b1869b021.jpg",
+      "caption": "",
+      "source": "ThePrint",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c477f557ffe2.jpeg",
+      "caption": "",
+      "source": "Journal18",
+      "original_width": "1200px",
+      "original_height": "813px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1cf919dc9a5b.jpg",
+      "caption": "",
+      "source": "Bayerische Staatsbibliothek",
+      "original_width": "815px",
+      "original_height": "980px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/95bf00a4cd78.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1357px",
+      "original_height": "1623px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f19f0871f691.jpeg",
+      "caption": "",
+      "source": "Journal18",
+      "original_width": "822px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/531c6068fb37.png",
+      "caption": "",
+      "source": "Cambridge University Press & Assessment",
+      "original_width": "1450px",
+      "original_height": "873px"
+    }
+  ]
+}

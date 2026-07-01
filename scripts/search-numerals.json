@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Hindu Arabic numerals evolution historical medieval manuscript mathematical"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Hindu Arabic numerals evolution historical medieval manuscript mathematical",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e4010c66a1da.png",
+      "caption": "",
+      "source": "Project Gutenberg",
+      "original_width": "1404px",
+      "original_height": "1740px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fac40f31a8cc.jpg",
+      "caption": "",
+      "source": "The Juggernaut",
+      "original_width": "1670px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6dd8ab4917b1.jpg",
+      "caption": "",
+      "source": "PBS",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bddda028d9d3.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1908px",
+      "original_height": "1086px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cb35113bbe1b.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1131px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ad626e6e8d62.jpg",
+      "caption": "",
+      "source": "Works in Progress",
+      "original_width": "2560px",
+      "original_height": "1358px"
+    }
+  ]
+}

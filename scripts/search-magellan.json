@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "magellan voyage circumnavigation 1519 historical illustration strait"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "magellan voyage circumnavigation 1519 historical illustration strait",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/342a6fafeff7.jpg",
+      "caption": "",
+      "source": "Daily Sabah",
+      "original_width": "4582px",
+      "original_height": "3049px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cf8a11823800.jpg",
+      "caption": "",
+      "source": "Latitude 65",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3f155af64a52.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1600px",
+      "original_height": "1084px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ab9ec3fa3d0b.jpg",
+      "caption": "",
+      "source": "National Geographic",
+      "original_width": "2484px",
+      "original_height": "3072px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bdae8d285249.png",
+      "caption": "",
+      "source": "Origins: Current Events in Historical Perspective - The Ohio State  University",
+      "original_width": "1200px",
+      "original_height": "732px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3f1f21c68d27.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "928px"
+    }
+  ]
+}

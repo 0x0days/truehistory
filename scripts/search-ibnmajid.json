@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn Majid navigation manuscript Arabic Omani sailor Indian Ocean poetry"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ibn Majid navigation manuscript Arabic Omani sailor Indian Ocean poetry",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/395fd767745b.jpg",
+      "caption": "",
+      "source": "Antiquariat INLIBRIS",
+      "original_width": "2400px",
+      "original_height": "1734px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dfc5e2ae20bb.jpg",
+      "caption": "",
+      "source": "Antiquariat INLIBRIS",
+      "original_width": "2400px",
+      "original_height": "1715px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/63c8819a0bfb.jpg",
+      "caption": "",
+      "source": "Antiquariat INLIBRIS",
+      "original_width": "1676px",
+      "original_height": "2400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b215ac7e984e.jpg",
+      "caption": "",
+      "source": "Al Rahalah",
+      "original_width": "1280px",
+      "original_height": "962px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/38b60cec1779.jpg",
+      "caption": "",
+      "source": "OER Project",
+      "original_width": "2000px",
+      "original_height": "1502px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a1e4f94efce7.jpg",
+      "caption": "",
+      "source": "OER Project",
+      "original_width": "2000px",
+      "original_height": "1995px"
+    }
+  ]
+}

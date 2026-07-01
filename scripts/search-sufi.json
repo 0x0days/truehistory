@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Sufi Book of Fixed Stars Arabic manuscript Andromeda constellation illustration medieval"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "al-Sufi Book of Fixed Stars Arabic manuscript Andromeda constellation illustration medieval",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7ff7885d0a42.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "4096px",
+      "original_height": "2666px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7086cc5f67ae.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "818px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ebda3a60cb52.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1150px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ddf2d1824a62.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "819px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7fc48369da87.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1140px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f5d04b664a54.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "2006px",
+      "original_height": "2887px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/beb5ece59ef5.jpg",
+      "caption": "",
+      "source": "Ziereis Facsimiles",
+      "original_width": "1865px",
+      "original_height": "937px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fa8c9ce6caa0.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "905px",
+      "original_height": "1390px"
+    }
+  ]
+}

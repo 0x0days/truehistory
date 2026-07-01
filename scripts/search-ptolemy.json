@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ptolemy Almagest medieval manuscript geocentric model astronomy"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ptolemy Almagest medieval manuscript geocentric model astronomy",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0785e234de80.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1137px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e3cba76618f5.jpg",
+      "caption": "",
+      "source": "Les blogs de Futura",
+      "original_width": "1264px",
+      "original_height": "1064px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1de4c15e4263.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/76bbadbd06e9.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1153px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a59ab374ca18.jpg",
+      "caption": "",
+      "source": "Leonardo Frigo",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1cf895ad8d97.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1482px",
+      "original_height": "1600px"
+    }
+  ]
+}

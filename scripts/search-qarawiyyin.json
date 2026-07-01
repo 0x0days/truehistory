@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Qarawiyyin mosque university Fez Morocco medieval architecture interior courtyard"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "al-Qarawiyyin mosque university Fez Morocco medieval architecture interior courtyard",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/31516c030322.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/10135c651280.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0b563ca0f0e4.jpg",
+      "caption": "",
+      "source": "Atlas Obscura",
+      "original_width": "1200px",
+      "original_height": "1709px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9a053aa0fe42.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cb567ce9d4d4.jpg",
+      "caption": "",
+      "source": "Mainly Museums",
+      "original_width": "1600px",
+      "original_height": "2134px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/26a106c82929.jpg",
+      "caption": "",
+      "source": "Oasis Aventure",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

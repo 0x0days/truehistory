@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn al-Haytham Kitab al-Manazir Book of Optics Arabic manuscript page medieval scientific diagram"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Ibn al-Haytham Kitab al-Manazir Book of Optics Arabic manuscript page medieval scientific diagram",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eb8804ce893a.jpg",
+      "caption": "",
+      "source": "Nature",
+      "original_width": "675px",
+      "original_height": "1290px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fa8665185192.jpg",
+      "caption": "",
+      "source": "Phys.org",
+      "original_width": "1029px",
+      "original_height": "1663px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/957f106e9283.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1021px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3411b059300e.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1586px",
+      "original_height": "1717px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ebe27f0e4c32.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1879px",
+      "original_height": "2698px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/348ad9616d09.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2473px",
+      "original_height": "3694px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a270160e949d.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1199px",
+      "original_height": "896px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/790c7ac25cf8.jpg",
+      "caption": "",
+      "source": "Tumblr",
+      "original_width": "1200px",
+      "original_height": "1870px"
+    }
+  ]
+}

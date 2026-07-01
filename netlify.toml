@@ -1,0 +1,58 @@
+# Netlify configuration for Next.js + next-intl i18n
+# The @netlify/plugin-nextjs automatically handles middleware (edge functions)
+# so locale detection + redirect runs on Netlify's edge — no extra config needed.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Security + caching headers
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Redirect root to locale-prefixed URL
+# This is a fallback — the middleware normally handles it via Accept-Language detection
+[[redirects]]
+  from = "/"
+  to = "/en"
+  status = 302
+  force = false
+  conditions = {Language = ["en"]}
+
+[[redirects]]
+  from = "/"
+  to = "/fr"
+  status = 302
+  force = false
+  conditions = {Language = ["fr"]}
+
+[[redirects]]
+  from = "/"
+  to = "/de"
+  status = 302
+  force = false
+  conditions = {Language = ["de"]}
+
+[[redirects]]
+  from = "/"
+  to = "/ar"
+  status = 302
+  force = false
+  conditions = {Language = ["ar"]}
+
+# Default fallback redirect (if no Language header matches)
+[[redirects]]
+  from = "/"
+  to = "/en"
+  status = 302
+  force = false

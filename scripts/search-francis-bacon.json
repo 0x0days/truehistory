@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Francis Bacon Novum Organum 1620 title page engraving scientific method"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Francis Bacon Novum Organum 1620 title page engraving scientific method",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/323ebad38c11.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1029px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/98cb695a4522.jpg",
+      "caption": "",
+      "source": "Edward Worth Library",
+      "original_width": "1024px",
+      "original_height": "1666px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f9bf784c2e9b.jpg",
+      "caption": "",
+      "source": "AbeBooks",
+      "original_width": "1296px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b39e9ffe44af.jpg",
+      "caption": "",
+      "source": "SOPHIA ∑ RARE BOOKS",
+      "original_width": "3021px",
+      "original_height": "4573px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6bb8bd87735d.jpg",
+      "caption": "",
+      "source": "Edward Worth Library",
+      "original_width": "1024px",
+      "original_height": "1556px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/acdce497dd9c.jpg",
+      "caption": "",
+      "source": "Manhattan Rare Book Company",
+      "original_width": "936px",
+      "original_height": "1020px"
+    }
+  ]
+}

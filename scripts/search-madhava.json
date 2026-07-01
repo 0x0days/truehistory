@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Madhava Kerala school mathematics infinite series manuscript Sanskrit"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Madhava Kerala school mathematics infinite series manuscript Sanskrit",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b080ad1330be.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/75adfcace12d.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7ea941de9843.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0521737491bb.jpeg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1800px",
+      "original_height": "927px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/433bcbf03d79.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9cf505115e24.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "800px",
+      "original_height": "1200px"
+    }
+  ]
+}

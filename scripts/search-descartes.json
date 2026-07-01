@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Descartes Discourse on Method 1637 title page engraving rationalism"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Descartes Discourse on Method 1637 title page engraving rationalism",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5b9b7bdb5560.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2169px",
+      "original_height": "1560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/227866d7a4e4.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f425ed0f55c5.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fd19f411e538.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/04c93f3098fe.jpg",
+      "caption": "",
+      "source": "World History Encyclopedia",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7f24a317cdb4.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1001px",
+      "original_height": "1390px"
+    }
+  ]
+}

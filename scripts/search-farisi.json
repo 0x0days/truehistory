@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Kamal al-Din al-Farisi rainbow diagram manuscript Tanqih al-Manazir optics"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Kamal al-Din al-Farisi rainbow diagram manuscript Tanqih al-Manazir optics",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/68c47b3bc273.jpg",
+      "caption": "",
+      "source": "earlymovingimagetimeline - WordPress.com",
+      "original_width": "943px",
+      "original_height": "1259px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9f1ad7b887b2.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "3715px",
+      "original_height": "2378px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/07d837ee99bb.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1272px",
+      "original_height": "886px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8725b969ec58.jpg",
+      "caption": "",
+      "source": "Aal-e-Qutub Aal-e-Syed Abdullah Shah Ghazi",
+      "original_width": "1086px",
+      "original_height": "814px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eb8804ce893a.jpg",
+      "caption": "",
+      "source": "Nature",
+      "original_width": "675px",
+      "original_height": "1290px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a56ec17adc8b.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b196cc4ef791.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/36c42ead03e3.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1318px",
+      "original_height": "1550px"
+    }
+  ]
+}

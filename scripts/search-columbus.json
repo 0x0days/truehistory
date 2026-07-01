@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Columbus voyages 1492 caravel Santa Maria historical illustration navigation"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Columbus voyages 1492 caravel Santa Maria historical illustration navigation",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9746256e8a7a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1004px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ec951785d903.jpg",
+      "caption": "",
+      "source": "Postcard History",
+      "original_width": "1269px",
+      "original_height": "2009px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2999e6c2612a.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/26f75a60b986.jpg",
+      "caption": "",
+      "source": "Album Online",
+      "original_width": "1024px",
+      "original_height": "774px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2f9758f157a6.jpg",
+      "caption": "",
+      "source": "History.com",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9afb333a7203.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    }
+  ]
+}

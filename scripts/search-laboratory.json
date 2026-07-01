@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval alchemical laboratory apparatus illustration manuscript experiment"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval alchemical laboratory apparatus illustration manuscript experiment",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/981996fe2272.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1079px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3600b0fd9f28.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1001px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/210533a5f09e.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1101px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ca35df310967.jpg",
+      "caption": "",
+      "source": "Museum Crush",
+      "original_width": "2000px",
+      "original_height": "2629px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/804583b1c19f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1031px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c413cbc6eda4.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1200px",
+      "original_height": "1222px"
+    }
+  ]
+}

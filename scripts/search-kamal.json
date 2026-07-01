@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "kamal navigation instrument medieval Arab sailor latitude measurement"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "kamal navigation instrument medieval Arab sailor latitude measurement",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eccf0031cd37.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0de29b45cbac.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1156px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b718b121eb65.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "690px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/473281ee557b.jpg",
+      "caption": "",
+      "source": "About History",
+      "original_width": "2223px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d2ba1e4a4127.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "978px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b2adbbfcd5b9.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "683px"
+    }
+  ]
+}

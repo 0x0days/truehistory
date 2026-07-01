@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "European witch burning medieval illustration historical woman executed stake"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "European witch burning medieval illustration historical woman executed stake",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/59fac694a03f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1146px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/93559a09a48a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1379px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f692e1fa2b70.jpg",
+      "caption": "",
+      "source": "MeisterDrucke",
+      "original_width": "1000px",
+      "original_height": "809px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4f27d31f57f5.jpg",
+      "caption": "",
+      "source": "The Independent",
+      "original_width": "1536px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/816d4c02ebb1.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "976px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9f9a60668fe1.jpg",
+      "caption": "",
+      "source": "Aeon",
+      "original_width": "3840px",
+      "original_height": "2404px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e58a99a95731.jpg",
+      "caption": "",
+      "source": "HubPages",
+      "original_width": "1200px",
+      "original_height": "925px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/39c81cb70144.jpg",
+      "caption": "",
+      "source": "Feminist Current",
+      "original_width": "2400px",
+      "original_height": "900px"
+    }
+  ]
+}

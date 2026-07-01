@@ -1,0 +1,589 @@
+{
+  "Nav": {
+    "backToCollection": "Retour à toutes les enquêtes",
+    "language": "Langue",
+    "selectLanguage": "Choisir la langue"
+  },
+  "MainHero": {
+    "eyebrow": "Une enquête SDAM",
+    "titleLine1": "Les découvertes",
+    "titleLine2": "n'étaient pas",
+    "titleLine3": "là où on vous l'a dit.",
+    "subhead": "Cinq cents ans de paternité effacés. La Méthodologie d'Attribution des Découvertes Scientifiques restaure les noms — utilisant de vrais manuscrits, de vrais théorèmes et la chaîne de transmission coloniale documentée.",
+    "cta": "Commencer l'enquête",
+    "ctaHint": "9 volumes · plus de 500 ans de paternité restaurés",
+    "scrollToExplore": "Faites défiler pour explorer"
+  },
+  "Collection": {
+    "eyebrow": "La collection SDAM",
+    "titleLine1": "Cinq enquêtes.",
+    "titleLine2": "Une méthodologie.",
+    "subhead": "La Méthodologie d'Attribution des Découvertes Scientifiques (SDAM) appliquée à cinq découvertes fondatrices. Chaque enquête utilise de vrais manuscrits d'archives, de vrais théorèmes mathématiques et la chaîne de transmission coloniale documentée pour corriger le récit historique. Choisissez un volume pour commencer.",
+    "discoverers": "Découvreur(s)",
+    "year": "Année",
+    "priorityMargin": "Antériorité",
+    "cesScore": "Score CES",
+    "investigate": "Enquêter",
+    "footerNote": "Toutes les enquêtes utilisent uniquement des images d'archives authentiques (vérifiées par VLM), de vrais théorèmes mathématiques en notation correcte et des chaînes de transmission documentées. Aucune image générée par IA. Aucune affirmation poétique sans preuve de source primaire.",
+    "footerSignature": "Méthodologie d'Attribution des Découvertes Scientifiques · 5 Volumes"
+  },
+  "Investigation": {
+    "gravity": {
+      "volume": "Vol. I",
+      "title": "Gravité",
+      "subtitle": "Qui a vraiment découvert l'attraction gravitationnelle ?",
+      "question": "Newton en 1687 ? Ou Al-Khāzini en 1121 — 566 ans plus tôt ?",
+      "discoverers": "Al-Bīrūnī et Al-Khāzini",
+      "year": "1020 – 1121 ÈC",
+      "competitor": "Newton (1687)",
+      "priorityMargin": "566 ans",
+      "ces": "12/21",
+      "verdict": "Cas solide",
+      "portraitCaption": "al-Bīrūnī · 1020 ÈC",
+      "description": "La découverte fondatrice que la gravité est une force variable dirigée vers le centre de la Terre — et non le poids absolu de Newton — a été mathématiquement démontrée en arabe 566 ans avant les Principia."
+    },
+    "optics": {
+      "volume": "Vol. II",
+      "title": "Optique et Photographie",
+      "subtitle": "Qui a vraiment découvert les lois de l'optique — et inventé la photographie ?",
+      "question": "Newton en 1704 ? Snell en 1621 ? Daguerre en 1839 ? Ou Ibn al-Haytham en 1011 ?",
+      "discoverers": "Ibn al-Haytham et Ibn Sahl",
+      "year": "984 – 1021 ÈC",
+      "competitor": "Newton, Snell, Daguerre",
+      "priorityMargin": "637 – 818 ans",
+      "ces": "16,5/21",
+      "verdict": "Cas très solide",
+      "portraitCaption": "Ibn al-Haytham · 1011 ÈC",
+      "description": "Les lois de la réflexion et de la réfraction, le théorème de la camera obscura et les fondements de la photographie elle-même — tous énoncés et prouvés en arabe 637 à 818 ans avant les « découvreurs » européens."
+    },
+    "method": {
+      "volume": "Vol. III",
+      "title": "La Méthode Scientifique",
+      "subtitle": "Qui a vraiment fondé la méthode scientifique expérimentale ?",
+      "question": "Francis Bacon en 1620 ? Ou Ibn al-Haytham en 1025 — 600 ans plus tôt ?",
+      "discoverers": "Ibn al-Haytham",
+      "year": "vers 1025 ÈC",
+      "competitor": "Francis Bacon (1620)",
+      "priorityMargin": "600 ans",
+      "ces": "17/21",
+      "verdict": "Cas très solide",
+      "portraitCaption": "Ibn al-Haytham · 1025 ÈC",
+      "description": "La méthode expérimentale en sept étapes — observer, formuler des hypothèses, expérimenter, vérifier, répéter, publier, questionner l'autorité — a été explicitement énoncée par écrit par Ibn al-Haytham 600 ans avant le Novum Organum de Francis Bacon."
+    },
+    "calculus": {
+      "volume": "Vol. IV",
+      "title": "Calcul Infinitésimal et le Vol des Bibliothèques",
+      "subtitle": "Qui a vraiment inventé le calcul — et comment les manuscrits sont-ils arrivés en Europe ?",
+      "question": "Newton en 1687 ? Leibniz en 1684 ? Ou Ibn al-Haytham en 1000 — 666 ans plus tôt ?",
+      "discoverers": "Ibn al-Haytham, Sharaf al-Ṭūsī, Mādhava",
+      "year": "1000 – 1400 ÈC",
+      "competitor": "Newton et Leibniz",
+      "priorityMargin": "276 – 666 ans",
+      "ces": "14/21",
+      "verdict": "Cas solide",
+      "portraitCaption": "Ibn al-Haytham · 1000 ÈC",
+      "description": "L'intégration (Ibn al-Haytham, 1000 ÈC), la différenciation (Sharaf al-Ṭūsī, 1170 ÈC) et les séries infinies (Mādhava, 1400 ÈC) — toutes par écrit des siècles avant Newton et Leibniz. Plus : comment les manuscrits sont arrivés en Europe par la conquête."
+    },
+    "astro": {
+      "volume": "Vol. V",
+      "title": "Astronomie",
+      "subtitle": "Qui a vraiment découvert le cosmos — et Copernic a-t-il copié ?",
+      "question": "Copernic en 1543 ? Galilée en 1610 ? Ou al-Sūfī en 964 — 800 ans plus tôt ?",
+      "discoverers": "al-Sūfī, al-Battānī, al-Ṭūsī, Ibn al-Shāṭir",
+      "year": "900 – 1350 ÈC",
+      "competitor": "Copernic, Galilée, Messier",
+      "priorityMargin": "296 – 800 ans",
+      "ces": "17/21",
+      "verdict": "Cas très solide",
+      "portraitCaption": "al-Battānī · 900 ÈC",
+      "description": "La galaxie d'Andromède (al-Sūfī, 964 ÈC), le couple de Tusi (al-Ṭūsī, 1247 ÈC) et le modèle lunaire d'Ibn al-Shāṭir — mathématiquement identique au De Revolutionibus de Copernic, publié 296 ans plus tard sans citation."
+    },
+    "nav": {
+      "volume": "Vol. VI",
+      "title": "Navigation",
+      "subtitle": "Qui a vraiment inventé la navigation céleste — et guidé les Européens ?",
+      "question": "Colomb en 1492 ? Vasco de Gama en 1497 ? Ou Mariam al-Asturlābiyya en 944 — 548 ans plus tôt ?",
+      "discoverers": "Mariam al-Asturlābiyya, Ibn Mājid, al-Mahrī",
+      "year": "944 – 1500 ÈC",
+      "competitor": "Colomb, Vasco de Gama, Henri",
+      "priorityMargin": "35 – 548 ans",
+      "ces": "16/21",
+      "verdict": "Cas très solide",
+      "portraitCaption": "Ibn Mājid · 1462 ÈC",
+      "description": "L'astrolabe (Mariam al-Asturlābiyya, 944 ÈC), le manuel de navigation (Ibn Mājid, 1462) et la trigonométrie sphérique (al-Bīrūnī, 1030). Vasco de Gama a été guidé à travers l'océan Indien par un navigateur musulman en 1497 — puis l'a effacé."
+    },
+    "uni": {
+      "volume": "Vol. VII",
+      "title": "Universités et Femmes",
+      "subtitle": "Qui a vraiment fondé la première université — et qui brûlait les femmes pour avoir lu ?",
+      "question": "Bologne en 1088 ? Ou Fatima al-Fehri en 859 — 229 ans plus tôt ?",
+      "discoverers": "Fatima al-Fehri, Lubna de Cordoue, Dhayfa Khatun",
+      "year": "859 – 1240 ÈC",
+      "competitor": "Bologne, Oxford, Paris",
+      "priorityMargin": "229 ans",
+      "ces": "15,5/21",
+      "verdict": "Cas très solide",
+      "portraitCaption": "Fatima al-Fihri · 859 ÈC",
+      "description": "La plus ancienne université du monde a été fondée par une femme — Fatima al-Fehri, en 859 ÈC. Lubna de Cordoue gérait une bibliothèque de 500 000 livres. Dhayfa Khatun a construit des systèmes universitaires. Dans les mêmes siècles, l'Europe brûlait vives des femmes pour avoir pratiqué la médecine."
+    },
+    "med": {
+      "volume": "Vol. VIII",
+      "title": "Médecine",
+      "subtitle": "Qui a vraiment inventé la médecine moderne — et a écrit le manuel européen pendant 600 ans ?",
+      "question": "Vésale en 1543 ? Harvey en 1628 ? Ou al-Rāzī en 900 — le premier essai clinique — et Ibn Sīnā en 1025 ?",
+      "discoverers": "al-Rāzī, Ibn Sīnā, Ibn al-Nafīs, al-Zahrāwī",
+      "year": "900 – 1242 ÈC",
+      "competitor": "Vésale, Harvey, Pasteur",
+      "priorityMargin": "350 – 900 ans",
+      "ces": "19/21",
+      "verdict": "Irréfutable",
+      "portraitCaption": "al-Rāzī · 900 ÈC",
+      "description": "Le Canon de la Médecine (Ibn Sīnā, 1025 ÈC) a été le manuel médical européen pendant 600 ans. Le premier essai clinique (al-Rāzī, 900 ÈC). La circulation pulmonaire (Ibn al-Nafīs, 1242 ÈC — 386 ans avant Harvey). CES 19/21 — le cas le plus solide de la collection SDAM."
+    },
+    "alg": {
+      "volume": "Vol. IX",
+      "title": "Algorithmes et Algèbre",
+      "subtitle": "Qui a vraiment inventé l'algorithme — et a donné son nom à l'algèbre ?",
+      "question": "Fibonacci en 1202 ? Turing en 1936 ? Ou al-Khwārizmī en 820 — dont le NOM est devenu le mot ?",
+      "discoverers": "al-Khwārizmī",
+      "year": "vers 820 ÈC",
+      "competitor": "Fibonacci, Cardan, Viète, Turing",
+      "priorityMargin": "382 – 1 116 ans",
+      "ces": "19/21",
+      "verdict": "Irréfutable",
+      "portraitCaption": "al-Khwārizmī · 820 ÈC",
+      "description": "Le mot « algorithme » EST son nom (al-Khwārizmī → Algoritmi → algorithme). Le mot « algèbre » EST le titre de son livre (al-Jabr). Le seul cas SDAM où la preuve EST le nom. CES 19/21 — Irréfutable."
+    }
+  },
+  "Hero": {
+    "gravity": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Newton a découvert",
+      "q2": "la gravité",
+      "q3": "en 1687.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "optics": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Newton a découvert",
+      "q2": "les lois de l'optique.",
+      "q3": "Daguerre a inventé",
+      "q4": "la photographie.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "method": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Francis Bacon",
+      "q2": "a inventé la méthode scientifique",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "calculus": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Newton a inventé le calcul",
+      "q2": "Leibniz en 1684.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "astro": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Copernic a inventé",
+      "q2": "l'astronomie moderne.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "nav": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Les Européens ont exploré les océans",
+      "q2": "au XVe siècle.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "uni": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "L'Europe a fondé",
+      "q2": "les premières universités.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "med": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Les Européens ont inventé",
+      "q2": "la médecine moderne.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    },
+    "alg": {
+      "eyebrow": "Une enquête SDAM",
+      "q1": "Les algorithmes sont",
+      "q2": "une invention européenne.",
+      "orDid": "Ou pas ?",
+      "scrollHint": "Faites défiler pour enquêter"
+    }
+  },
+  "Finale": {
+    "common": {
+      "correctedRecord": "Le récit corrigé",
+      "nextTextbook": "Le prochain manuel devrait dire :",
+      "shareLabel": "Partager le récit corrigé :",
+      "frameworkGeneral": "Le cadre SDAM est général",
+      "whatNext": "Que devrions-nous enquêter ensuite ?",
+      "whatNextHint": "Demandez : « enquêtez sur [découverte] avec SDAM » — la méthodologie s'exécutera à nouveau.",
+      "reinvestigate": "Réenquêter depuis le début",
+      "footerText": "Une enquête interactive basée sur la Méthodologie d'Attribution des Découvertes Scientifiques",
+      "peakEyebrow": "La question qui ne se ferme pas",
+      "peakIntro": "Vous avez commencé cette page en croyant que le manuel était complet.",
+      "peakOutro": "Vous la finissez en ayant rencontré la personne qu'ils ont effacée."
+    },
+    "gravity": {
+      "peakPhrase": "Al-Khāzini l'a écrit. Newton a pris le crédit. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si une découverte a pu être cachée pendant cinq cents ans, qu'y a-t-il d'autre encore au mauvais nom dans les livres qu'on vous a donnés ?"
+    },
+    "optics": {
+      "peakPhrase": "Ibn al-Haytham a prouvé la camera obscura en 1011. Daguerre a breveté la photographie en 1839. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si l'appareil dans votre poche qui prend chaque photographie remonte son théorème à un homme dont le nom a été changé en un mot latin — qu'y a-t-il d'autre dans votre vie quotidienne construit sur un nom qu'ils ont effacé ?"
+    },
+    "method": {
+      "peakPhrase": "Ibn al-Haytham a écrit : « Le chercheur de vérité ne place pas l'autorité au-dessus de l'observation. » Bacon a pris le crédit. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si la méthode qu'on vous a appris à appeler « la méthode scientifique » a été écrite six cents ans avant son prétendu fondateur, quelles autres fondations de votre éducation pourraient porter le nom de quelqu'un d'autre ?"
+    },
+    "calculus": {
+      "peakPhrase": "Ibn al-Haytham a intégré. Sharaf al-Ṭūsī a différencié. Mādhava a sommé l'infini. Newton et Leibniz l'ont nommé — et le manuel n'a pas été corrigé.",
+      "openLoop": "Si l'équation la plus célèbre des mathématiques a été construite sur trois noms que les manuels ne mentionnent jamais, qu'y a-t-il d'autre dans votre éducation assemblé à partir de personnes sans nom ?"
+    },
+    "astro": {
+      "peakPhrase": "Nasīr al-Dīn al-Ṭūsī a décrit le mouvement planétaire en 1259. Copernic a publié le même modèle en 1543. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si le modèle qui a placé le soleil au centre de notre système solaire a été écrit en arabe 284 ans avant Copernic — qu'y a-t-il d'autre dans les étoiles qu'on vous a appris à nommer qui a d'abord été vu par quelqu'un dont le nom a été changé en un mot latin ?"
+    },
+    "nav": {
+      "peakPhrase": "Ibn Mājid a écrit le manuel de navigation que Colomb a utilisé en 1492. Colomb a pris la découverte. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si le manuel qui a guidé le navire qui a « découvert » un continent existait déjà dans une langue que les manuels ne vous ont jamais enseignée — qu'y a-t-il d'autre qui était déjà connu avant d'être « découvert » ?"
+    },
+    "uni": {
+      "peakPhrase": "Fatima al-Fihri a fondé l'Université al-Qarawiyyin en 859. Bologne a été fondée en 1088. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si la plus ancienne université du monde a été fondée par une femme à Fès 229 ans avant la plus ancienne d'Europe — quelles autres premières dans votre histoire portaient le nom de quelqu'un d'autre ?"
+    },
+    "med": {
+      "peakPhrase": "Ibn al-Nafīs a décrit la circulation pulmonaire en 1242. Harvey a pris le crédit en 1628. Le manuel n'a pas été corrigé.",
+      "openLoop": "Si la découverte que le sang voyage de votre cœur à vos poumons et inversement a été écrite 386 ans avant son prétendu découvreur — qu'y a-t-il d'autre dans la médecine à laquelle vous faites confiance qui a d'abord été écrit dans une langue qu'ils ne vous ont pas enseignée ?"
+    },
+    "alg": {
+      "peakPhrase": "Le mot « algorithme » est le nom d'al-Khwārizmī. Le mot « algèbre » est son livre. Chaque programme que vous avez écrit porte son nom. La personne a été effacée.",
+      "openLoop": "Si le mot que vous utilisez cent fois par jour est une version latinisée d'un nom que les manuels ne mentionnent jamais — qu'y a-t-il d'autre dans votre travail construit sur une personne qu'ils vous ont fait oublier ?"
+    }
+  },
+  "Myth": {
+    "common": {
+      "chapterTitle": "Chapitre 01 — L'histoire qu'on vous a racontée",
+      "officialNarrative": "Le récit officiel",
+      "butThereIsAProblem": "Mais il y a un problème"
+    },
+    "gravity": {
+      "subtitle": "est propre et complet.",
+      "intro": "Ouvrez n'importe quel manuel de physique. L'histoire est la même. Une ligne droite de la Grèce antique aux Lumières — trois noms, deux mille ans, une conclusion inévitable.",
+      "problem1": "Cette histoire saute",
+      "problemHighlight": "six siècles",
+      "problem2": "de physique."
+    },
+    "optics": {
+      "subtitle": "saute un millénaire.",
+      "intro": "Ouvrez n'importe quel manuel de physique. L'histoire va de la Grèce antique à Newton, puis à Daguerre et la photographie. Le millénaire entre les deux — quand les lois de l'optique ont été réellement prouvées — est traité comme un vide.",
+      "problem1": "Cette histoire efface",
+      "problemHighlight": "le scientifique",
+      "problem2": "qui a réellement découvert comment fonctionne la lumière."
+    },
+    "method": {
+      "subtitle": "commence en 1620.",
+      "intro": "Ouvrez n'importe quel manuel de philosophie des sciences. L'histoire commence avec le Novum Organum de Francis Bacon qui aurait inventé la méthode scientifique. Tout ce qui précède Bacon est traité comme pré-scientifique.",
+      "problem1": "Cette histoire efface l'homme qui a",
+      "problemHighlight": "énoncé la méthode",
+      "problem2": "six siècles plus tôt — par écrit."
+    },
+    "calculus": {
+      "subtitle": "commence avec Newton et Leibniz.",
+      "intro": "Ouvrez n'importe quel manuel de calcul. L'histoire commence à la fin du XVIIe siècle avec Newton et Leibniz inventant indépendamment le calcul. Tout ce qui précède est traité comme précurseur.",
+      "problem1": "Cette histoire efface",
+      "problemHighlight": "trois traditions indépendantes",
+      "problem2": "qui avaient résolu la limite des siècles plus tôt."
+    },
+    "astro": {
+      "subtitle": "commence en 1543.",
+      "intro": "Ouvrez n'importe quel manuel d'astronomie. L'histoire commence avec Copernic plaçant le soleil au centre, puis Galilée pointant une lunette vers Jupiter. Les 700 ans avant Copernic sont traités comme une époque obscure.",
+      "problem1": "Cette histoire efface",
+      "problemHighlight": "les astronomes",
+      "problem2": "qui ont mesuré le ciel pendant 700 ans avant Copernic."
+    },
+    "nav": {
+      "subtitle": "commence avec les Portugais.",
+      "intro": "Ouvrez n'importe quelle histoire de la navigation. L'histoire commence avec Henri le Navigateur, puis Colomb, puis Vasco de Gama. Les instruments et les manuels qu'ils utilisaient sont traités comme des inventions européennes.",
+      "problem1": "Cette histoire efface la femme qui a construit les instruments — et les navigateurs qui ont guidé",
+      "problemHighlight": "les Européens",
+      "problem2": "à travers les océans."
+    },
+    "uni": {
+      "subtitle": "commence en 1088.",
+      "intro": "Ouvrez n'importe quelle histoire de l'enseignement supérieur. L'histoire commence avec Bologne en 1088, puis Oxford, puis Paris. Les 229 ans précédents — quand une femme a fondé la plus ancienne université en activité continue au monde — sont effacés.",
+      "problem1": "Cette histoire efface la femme qui a fondé",
+      "problemHighlight": "la plus ancienne université du monde",
+      "problem2": "— 229 ans plus tôt."
+    },
+    "med": {
+      "subtitle": "va de la Grèce à l'Europe.",
+      "intro": "Ouvrez n'importe quel manuel d'histoire de la médecine. L'histoire va d'Hippocrate à Galien, puis saute 1 300 ans jusqu'à Vésale et Harvey. Le millénaire entre les deux — quand la médecine arabe était la plus avancée au monde — est traité comme un vide.",
+      "problem1": "Cette histoire efface les médecins qui ont mené les",
+      "problemHighlight": "premiers essais cliniques",
+      "problem2": "— et écrit le manuel que l'Europe a utilisé pendant 600 ans."
+    },
+    "alg": {
+      "subtitle": "va de la Grèce à Turing.",
+      "intro": "Ouvrez n'importe quel manuel d'informatique. L'histoire des algorithmes va de Diophante à Fibonacci à Cardano à Turing. L'homme dont le NOM est devenu le mot « algorithme » est mentionné dans une note de bas de page — si tant est qu'il le soit.",
+      "problem1": "Le mot",
+      "problemHighlight": "« algorithme » EST son nom",
+      "problem2": "Le mot « algèbre » EST le titre de son livre."
+    }
+  },
+  "Discovery": {
+    "common": {
+      "chapterTitle": "Chapitre 03 — La Découverte"
+    }
+  },
+  "FinaleBody": {
+    "gravity": {
+      "blockquote": "Newton a mathématiquement formulé la loi de l'inverse carré universelle, en s'appuyant sur le théorème quantitatif d'al-Khāzini (1121) — prouvé avec des balances hydrostatiques — selon lequel le poids est une fonction W = f(r) de la distance au centre de la Terre, lui-même un affinement de la mesure trigonométrique d'al-Bīrūnī en 1020 de ce même rayon, qui établit que les corps tombent vers la Terre, et non vers un centre cosmique.",
+      "principles": [
+        {
+          "title": "Créditer précisément",
+          "desc": "Percée conceptuelle ≠ synthèse mathématique. Les deux méritent attribution."
+        },
+        {
+          "title": "L'espace vide",
+          "desc": "Le vide de traduction a effacé les noms. La recherche moderne les restaure."
+        },
+        {
+          "title": "Tenir le standard",
+          "desc": "SDAM applique une preuve stricte à toutes les revendications — européennes et non-européennes."
+        }
+      ]
+    },
+    "optics": {
+      "blockquote": "Les lois fondatrices de l'optique — réflexion, réfraction, propagation en ligne droite et le théorème de la camera obscura — ont été mathématiquement prouvées par Ibn al-Haytham (1011–1021) et Ibn Sahl (984). L'Opticks de Newton (1704) a ajouté la décomposition prismatique de la lumière blanche. Snell (1621) a redérivé indépendamment la loi des sinus d'Ibn Sahl 637 ans plus tard. La photographie fut bâtie sur la camera obscura d'Ibn al-Haytham — 815 ans après qu'il l'eût prouvée.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "Ibn al-Haytham : fondements. Snell : redécouverte. Newton : prisme. Niépce : première photo. Daguerre : commercialisation."
+        },
+        {
+          "title": "L'arabe était la partie difficile",
+          "desc": "Rompre la théorie de l'émission aristotélicienne + prouver la propagation rectiligne a pris 1 300 ans."
+        },
+        {
+          "title": "La photographie a deux pères",
+          "desc": "Ibn al-Haytham (optique, 1011) + Niépce (chimie, 1826). Daguerre a commercialisé."
+        }
+      ]
+    },
+    "method": {
+      "blockquote": "La méthode scientifique expérimentale — observation, hypothèse, expérience contrôlée, vérification, répétition, publication et scepticisme envers l'autorité — fut explicitement énoncée par écrit par Ibn al-Haytham au Caire, vers 1025, soit 600 ans avant le Novum Organum de Francis Bacon. La véritable contribution de Bacon fut de formaliser l'induction. Celle de Descartes, le rationalisme. Celle de Popper, la réfutabilité. Mais la méthode fondatrice était celle d'Ibn al-Haytham.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "Alhazen : fondation expérimentale. Grosseteste & R. Bacon : transmission. F. Bacon : induction. Descartes : rationalisme. Popper : réfutabilité."
+        },
+        {
+          "title": "La méthode est d'origine arabe",
+          "desc": "Les 7 étapes — observer, formuler, expérimenter, vérifier, répéter, publier — ont été énoncées par Alhazen."
+        },
+        {
+          "title": "Le scepticisme est le cœur",
+          "desc": "La rupture fondatrice avec la science grecque fut l'insistance d'Alhazen à tester même Aristote et Ptolémée."
+        }
+      ]
+    },
+    "calculus": {
+      "blockquote": "Les trois techniques fondatrices du calcul — l'intégration, la différenciation et les séries infinies — furent développées par écrit par Ibn al-Haytham (vers 1000), Sharaf al-Dīn al-Ṭūsī (vers 1170) et Mādhava de Saṅgamagrāma (vers 1400) — soit 666, 496 et 276 ans respectivement avant Newton et Leibniz. La contribution authentique de Newton et Leibniz fut le théorème fondamental du calcul reliant ces techniques, et la notation qui les rendit routinières.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "Ibn al-Haytham : intégration. Sharaf al-Ṭūsī : différenciation. Mādhava : séries infinies. Newton + Leibniz : unification + notation."
+        },
+        {
+          "title": "Le vol de bibliothèque est documenté",
+          "desc": "Croisades, Grenade, Napoléon, Inde britannique. Le Vatican, la British Library et la BnF détiennent les preuves."
+        },
+        {
+          "title": "Trois traditions, une synthèse",
+          "desc": "Le calcul est une synthèse de précurseurs arabes, indiens et grecs, unifiée par deux brillants Européens."
+        }
+      ]
+    },
+    "astro": {
+      "blockquote": "La galaxie d'Andromède (al-Sūfī, 964), le Couple de Tusi (al-Ṭūsī, 1247) et le modèle lunaire d'Ibn al-Shāṭir — mathématiquement identique au De Revolutionibus de Copernic — furent tous énoncés en arabe des siècles avant les « découvreurs » européens. Copernic cita al-Battānī 23 fois. Les modèles mathématiques de l'observatoire de Maragheh furent transmis en Europe et utilisés sans attribution.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "al-Sūfī : Andromède. al-Battānī : tables trigonométriques. al-Ṭūsī : Couple de Tusi. Ibn al-Shāṭir : modèle lunaire. Copernic : synthèse."
+        },
+        {
+          "title": "Copernic a cité ses sources",
+          "desc": "De Revolutionibus cite Albatenius (al-Battānī) 23 fois. Les modèles mathématiques étaient de Maragheh."
+        },
+        {
+          "title": "La transmission est documentée",
+          "desc": "Manuscrits grecs → astronomie arabe → Maragheh → Byzance → Copernic. Chaque maillon est tracé."
+        }
+      ]
+    },
+    "nav": {
+      "blockquote": "L'astrolabe (Mariam al-Asturlābiyya, Xe siècle), le manuel de navigation (Ibn Mājid, 1462) et la trigonométrie sphérique (al-Bīrūnī, 1030) furent tous développés dans le monde islamique des siècles avant la navigation européenne. Vasco de Gama fut guidé à travers l'océan Indien par un navigateur musulman en 1497 — puis le navigateur fut effacé des livres d'histoire.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "Mariam : astrolabe. Ibn Mājid : manuels. al-Mahrī : trigonométrie sphérique. Colomb/Vasco da Gama : restatements européens."
+        },
+        {
+          "title": "Les manuels guidaient les Européens",
+          "desc": "La traversée de Vasco da Gama en 1497 utilisa un manuel de navigateur arabe. Le navigateur fut effacé."
+        },
+        {
+          "title": "Mariam fut effacée pendant 1 000 ans",
+          "desc": "La seule femme fabricante d'astrolabes du monde islamique médiéval — enregistrée par Ibn al-Nadīm en 987."
+        }
+      ]
+    },
+    "uni": {
+      "blockquote": "La plus ancienne université en activité continue au monde fut fondée par Fatima al-Fehri en 859 — 229 ans avant Bologne. Lubna de Cordoue gérait une bibliothèque de 500 000 livres. Dhayfa Khatun bâtit des systèmes universitaires. Dans les mêmes siècles, l'Europe brûlait vives des femmes pour avoir pratiqué la médecine. Le modèle universitaire européen est structurellement identique à la madrasa arabe — documenté par George Makdisi (1981).",
+      "principles": [
+        {
+          "title": "Créditer la fondatrice",
+          "desc": "Fatima al-Fehri : al-Qarawiyyin (859). Lubna : bibliothèque de 500 000. Dhayfa Khatun : systèmes universitaires."
+        },
+        {
+          "title": "Le modèle fut hérité",
+          "desc": "George Makdisi (1981) a prouvé que l'université européenne est structurellement identique à la madrasa arabe."
+        },
+        {
+          "title": "Les femmes étaient dirigeantes",
+          "desc": "Fatima, Lubna, Dhayfa — tandis que l'Europe brûlait les femmes pour avoir lu. L'effacement était genré."
+        }
+      ]
+    },
+    "med": {
+      "blockquote": "Les méthodes fondatrices de la médecine moderne — l'essai clinique contrôlé, la théorie des contagions et la quarantaine, la circulation pulmonaire, et l'encyclopédie pharmacologique systématique — furent développées par al-Rāzī (vers 900), Ibn Sīnā (1025) et Ibn al-Nafīs (1242). Le Canon de la Médecine fut le manuel médical standard de l'Europe pendant 600 ans, utilisé à Montpellier, Padoue, Paris et Louvain du XIIe au XVIIe siècle.",
+      "principles": [
+        {
+          "title": "Créditer chaque couche",
+          "desc": "al-Rāzī : essai clinique. Ibn Sīnā : Canon (manuel de 600 ans). Ibn al-Nafīs : circulation pulmonaire. Vesalius/Harvey : restatements."
+        },
+        {
+          "title": "Le Canon était le programme",
+          "desc": "600+ ans comme manuel médical principal de l'Europe. Pas une influence — une dépendance."
+        },
+        {
+          "title": "C'est le cas SDAM le plus fort",
+          "desc": "CES 19/21 — Irréfutable. La transmission est continue et documentée."
+        }
+      ]
+    },
+    "alg": {
+      "blockquote": "La méthode systématique de l'algèbre, la formule quadratique, le système de numération indo-arabe et le concept de procédure algorithmique furent développés par Muḥammad ibn Mūsā al-Khwārizmī à Bagdad, vers 820 — 382 ans avant Fibonacci, 771 ans avant Viète et 1 116 ans avant Turing. Le mot « algorithme » est une forme latinisée de son nom. Le mot « algèbre » est le titre de son livre.",
+      "principles": [
+        {
+          "title": "Le mot EST la preuve",
+          "desc": "Algorithme = al-Khwārizmī. Algèbre = al-Jabr. Preuve étymologique où le vocabulaire EST le nom du découvreur."
+        },
+        {
+          "title": "Fibonacci l'a crédité",
+          "desc": "Liber Abaci (1202) crédite explicitement les Indiens et les Arabes. La tradition européenne a crédité Fibonacci à la place."
+        },
+        {
+          "title": "Turing a formalisé, pas inventé",
+          "desc": "Turing (1936) a formalisé l'algorithme comme objet mathématique. La méthode systématique était celle d'al-Khwārizmī, 1 116 ans plus tôt."
+        }
+      ]
+    }
+  },
+  "Sections": {
+    "LibraryTheft": {
+      "chapterTitle": "Chapitre 04d — Le Vol des Bibliothèques"
+    },
+    "Proof": {
+      "chapterTitle": "Chapitre 05 — La Preuve"
+    },
+    "Pillars": {
+      "chapterTitle": "Chapitre 06 — Les Sept Piliers"
+    },
+    "Verdict": {
+      "chapterTitle": "Chapitre 07 — Le Verdict"
+    },
+    "TranslationGap": {
+      "chapterTitle": "Chapitre 02 — Le Vide de Traduction"
+    },
+    "ManuscriptEvidence": {
+      "chapterTitle": "Chapitre 04c — Preuve Manuscrite"
+    },
+    "PriorityTimeline": {
+      "chapterTitle": "Chapitre 04b — Chronologie de Priorité"
+    },
+    "CounterArcade": {
+      "chapterTitle": "Chapitre 09 — Le Contre-Arcade"
+    },
+    "MathematicalProof": {
+      "chapterTitle": "Chapitre 05b — La Preuve Mathématique"
+    }
+  },
+  "Common": {
+    "perpetrator": "Auteur :",
+    "whatWasTaken": "Ce qui a été pris",
+    "source": "Source :",
+    "incident": "Incident",
+    "commonEra": "Ère Commune",
+    "openTheGap": "Ouvrir la faille",
+    "scholarlyRecord": "Références savantes — vérifiez toute affirmation",
+    "citationDisclaimer": "Les références peuvent être vérifiées directement auprès du catalogue numérique de l'institution concernée.",
+    "theCorrectedRecord": "Le récit corrigé",
+    "nextTextbook": "Le prochain manuel devrait dire :",
+    "shareCorrected": "Partager le récit corrigé :",
+    "frameworkGeneral": "Le cadre SDAM est général",
+    "whatNext": "Que devrions-nous enquêter ensuite ?",
+    "whatNextHint": "Demandez : « enquêtez sur [découverte] avec SDAM » — la méthodologie s'exécutera à nouveau.",
+    "reinvestigate": "Réenquêter depuis le début",
+    "footerText": "Une enquête interactive basée sur la Méthodologie d'Attribution des Découvertes Scientifiques",
+    "theQuestionStaysOpen": "La question reste ouverte",
+    "theQuestionDoesNotClose": "La question qui ne se ferme pas",
+    "strongCase": "Cas solide",
+    "veryStrongCase": "Cas très solide",
+    "irrefutable": "Irréfutable",
+    "discoverers": "Découvreur(s)",
+    "year": "Année",
+    "priorityMargin": "Antériorité",
+    "cesScore": "Score CES",
+    "investigate": "Enquêter",
+    "sevenPillars": "Sept piliers",
+    "backToCollection": "Retour à toutes les enquêtes",
+    "language": "Langue",
+    "selectLanguage": "Choisir la langue"
+  },
+  "Headings": {
+    "LibraryTheft": {
+      "gravity": "Comment les manuscrits sont arrivés en Europe.",
+      "calculus": "Comment les manuscrits sont arrivés en Europe.",
+      "alg": "Son nom est devenu le mot.",
+      "med": "Comment la médecine est arrivée en Europe.",
+      "astro": "Comment les modèles planétaires sont arrivés en Europe.",
+      "nav": "Comment le savoir de navigation a traversé l'océan."
+    },
+    "Myth": {
+      "gravity": "Le récit officiel est propre et complet.",
+      "optics": "Le récit officiel saute un millénaire.",
+      "method": "Le récit officiel commence en 1620.",
+      "calculus": "Le récit officiel commence avec Newton et Leibniz.",
+      "astro": "Le récit officiel commence en 1543.",
+      "nav": "Le récit officiel commence avec les Portugais.",
+      "uni": "Le récit officiel commence en 1088.",
+      "med": "Le récit officiel va de la Grèce à l'Europe.",
+      "alg": "Le récit officiel va de la Grèce à Turing."
+    }
+  }
+}

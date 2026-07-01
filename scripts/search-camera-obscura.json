@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "camera obscura medieval illustration historical diagram pinhole projection"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "camera obscura medieval illustration historical diagram pinhole projection",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fc9d1939f47e.jpg",
+      "caption": "",
+      "source": "Cámara Oscura World",
+      "original_width": "1260px",
+      "original_height": "992px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b58aa95e442a.png",
+      "caption": "",
+      "source": "Will Moneymaker Photography",
+      "original_width": "1330px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8b141ceb4a13.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1150px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8b812bc9b439.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "769px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/08d932906dcc.jpg",
+      "caption": "",
+      "source": "Electronics | HowStuffWorks",
+      "original_width": "1200px",
+      "original_height": "719px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fd23de3aa52e.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/082d6bff657e.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1053px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e20d83706208.jpg",
+      "caption": "",
+      "source": "SlideServe",
+      "original_width": "1024px",
+      "original_height": "768px"
+    }
+  ]
+}

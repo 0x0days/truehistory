@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Lubna of Cordoba medieval Andalusian woman scholar library manuscripts"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Lubna of Cordoba medieval Andalusian woman scholar library manuscripts",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fbe4b18658a0.png",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8ba742626bb4.jpg",
+      "caption": "",
+      "source": "Women of 1000 AD",
+      "original_width": "1100px",
+      "original_height": "755px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c3d2c5104066.jpeg",
+      "caption": "",
+      "source": "Kaaf Seen - Medium",
+      "original_width": "2048px",
+      "original_height": "1340px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/311b438826d4.jpg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1400px",
+      "original_height": "775px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/17336e8f5b38.jpg",
+      "caption": "",
+      "source": "Manchester ISoc",
+      "original_width": "2245px",
+      "original_height": "1587px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eb0f6a108e1c.jpg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1400px",
+      "original_height": "933px"
+    }
+  ]
+}

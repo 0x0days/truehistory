@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Galileo Sidereus Nuncius 1610 first edition moon drawings telescope discoveries"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Galileo Sidereus Nuncius 1610 first edition moon drawings telescope discoveries",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/913fa54c99b0.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "756px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/825304746336.jpg",
+      "caption": "",
+      "source": "Ars Technica",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d96d22aa6e3f.jpg",
+      "caption": "",
+      "source": "Linda Hall Library",
+      "original_width": "1074px",
+      "original_height": "843px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/512fd7adbc8e.jpg",
+      "caption": "",
+      "source": "Ars Technica",
+      "original_width": "1200px",
+      "original_height": "1767px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/29948b7268f4.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "923px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fbe2c2199fe2.jpeg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    }
+  ]
+}

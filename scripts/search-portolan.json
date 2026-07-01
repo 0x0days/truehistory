@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "portolan chart medieval Mediterranean navigation map Carte Pisane"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "portolan chart medieval Mediterranean navigation map Carte Pisane",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ad2f35598367.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1082px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/df38b6d40e6f.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2250px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e7a20319abda.jpg",
+      "caption": "",
+      "source": "Zmaps",
+      "original_width": "2250px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ca7500362392.jpg",
+      "caption": "",
+      "source": "CNRS Images",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7c1f0ef87cca.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "2091px",
+      "original_height": "1237px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/91da939b988a.jpg",
+      "caption": "",
+      "source": "The Cartographic Institute",
+      "original_width": "1600px",
+      "original_height": "521px"
+    }
+  ]
+}

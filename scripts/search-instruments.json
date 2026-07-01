@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Islamic scientific instrument museum collection astrolabe quadrant"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "medieval Islamic scientific instrument museum collection astrolabe quadrant",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d70be14c3184.jpg",
+      "caption": "",
+      "source": "NBC News",
+      "original_width": "1500px",
+      "original_height": "1072px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/686aca5a7ab1.jpeg",
+      "caption": "",
+      "source": "History of Science Museum",
+      "original_width": "1800px",
+      "original_height": "850px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2e0d5871236d.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1129px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/12e6739ac3cf.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2088px",
+      "original_height": "1659px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/73682f112f83.jpg",
+      "caption": "",
+      "source": "J.Hogendijk index",
+      "original_width": "1300px",
+      "original_height": "1955px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/849ef2a7b054.jpg",
+      "caption": "",
+      "source": "www.christies.com.cn",
+      "original_width": "3200px",
+      "original_height": "4101px"
+    }
+  ]
+}

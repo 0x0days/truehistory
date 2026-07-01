@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Galileo trial Inquisition church persecution scientist historical illustration"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Galileo trial Inquisition church persecution scientist historical illustration",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/56c9ad5a9b42.jpg",
+      "caption": "",
+      "source": "PBS",
+      "original_width": "1024px",
+      "original_height": "778px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5c3836560b6e.jpg",
+      "caption": "",
+      "source": "Magis Center",
+      "original_width": "1700px",
+      "original_height": "850px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/43cfee77b104.jpg",
+      "caption": "",
+      "source": "Mental Floss",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eb5f62641bf6.jpg",
+      "caption": "",
+      "source": "Inquiries Journal",
+      "original_width": "1600px",
+      "original_height": "1019px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/614d69170d6a.png",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1920px",
+      "original_height": "1399px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5bc180676700.jpg",
+      "caption": "",
+      "source": "Rawpixel",
+      "original_width": "800px",
+      "original_height": "1251px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Vatican Library Arabic manuscript collection medieval Islamic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Vatican Library Arabic manuscript collection medieval Islamic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5a08e3ec997f.jpg",
+      "caption": "",
+      "source": "Ibiblio",
+      "original_width": "868px",
+      "original_height": "1222px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b15018ad1dfe.jpg",
+      "caption": "",
+      "source": "International Qur'anic Studies Association",
+      "original_width": "1301px",
+      "original_height": "2173px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f72b363d113f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "983px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/65d9a36c0547.jpg",
+      "caption": "",
+      "source": "Open Book Publishers",
+      "original_width": "1875px",
+      "original_height": "2759px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/37d528c6e208.jpg",
+      "caption": "",
+      "source": "Greek Reporter",
+      "original_width": "1626px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7bc36ae7ea9c.jpg",
+      "caption": "",
+      "source": "Ibiblio",
+      "original_width": "1283px",
+      "original_height": "1030px"
+    }
+  ]
+}

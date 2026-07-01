@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ulugh Beg Samarkand observatory Zij-i-Sultani star catalog medieval astronomical instrument"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ulugh Beg Samarkand observatory Zij-i-Sultani star catalog medieval astronomical instrument",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ce41beca67f6.jpg",
+      "caption": "",
+      "source": "Astronomy Magazine",
+      "original_width": "2560px",
+      "original_height": "1532px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/72c3db74271c.jpg",
+      "caption": "",
+      "source": "en-academic.com",
+      "original_width": "1536px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2d389b85e397.jpg",
+      "caption": "",
+      "source": "Perth Observatory",
+      "original_width": "1024px",
+      "original_height": "971px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c49deb952ccd.jpg",
+      "caption": "",
+      "source": "TravelSerai",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/414c524d4cbc.jpg",
+      "caption": "",
+      "source": "TravelSerai",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9ce8b996d328.jpg",
+      "caption": "",
+      "source": "en-academic.com",
+      "original_width": "2288px",
+      "original_height": "1712px"
+    }
+  ]
+}

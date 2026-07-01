@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Andromeda Galaxy historical illustration medieval astronomy manuscript Persian Arab"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Andromeda Galaxy historical illustration medieval astronomy manuscript Persian Arab",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cf697774932b.jpg",
+      "caption": "",
+      "source": "Ivan Debono",
+      "original_width": "829px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/89b094b27fe8.jpg",
+      "caption": "",
+      "source": "Ivan Debono",
+      "original_width": "1024px",
+      "original_height": "1483px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ddf2d1824a62.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "819px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/62bfeb2964b7.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "925px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/811803c3fcd1.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "2465px",
+      "original_height": "3114px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/70237ef6ce27.jpg",
+      "caption": "",
+      "source": "The Metropolitan Museum of Art",
+      "original_width": "816px",
+      "original_height": "1200px"
+    }
+  ]
+}

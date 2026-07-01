@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn al-Shatir Damascus astronomical model manuscript planetary theory 14th century"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ibn al-Shatir Damascus astronomical model manuscript planetary theory 14th century",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bd79ec007b31.jpg",
+      "caption": "",
+      "source": "Phys.org",
+      "original_width": "1280px",
+      "original_height": "1701px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2761156d7f27.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "4096px",
+      "original_height": "2302px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5e429e0e9dba.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "2048px",
+      "original_height": "1154px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/700e7ef005bc.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/84c22720e2dd.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1303px",
+      "original_height": "1759px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f763802169ff.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2000px",
+      "original_height": "1315px"
+    }
+  ]
+}

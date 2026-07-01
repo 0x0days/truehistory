@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn Sahl manuscript burning mirrors lenses refraction sine law 10th century Arabic"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Ibn Sahl manuscript burning mirrors lenses refraction sine law 10th century Arabic",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/17e9682a2446.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/324b10a367c5.png",
+      "caption": "",
+      "source": "Encyclopedia of the History of Science - Carnegie Mellon University",
+      "original_width": "4800px",
+      "original_height": "2691px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a270160e949d.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1199px",
+      "original_height": "896px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3cedaad959cb.png",
+      "caption": "",
+      "source": "Encyclopedia of the History of Science - Carnegie Mellon University",
+      "original_width": "900px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/60f5239f876c.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "923px",
+      "original_height": "1023px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1f77e94c23df.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1812px",
+      "original_height": "1480px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8fe28e344ae1.jpg",
+      "caption": "",
+      "source": "Backyard Brains' Documentation",
+      "original_width": "1100px",
+      "original_height": "1124px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cd3f1096f336.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    }
+  ]
+}

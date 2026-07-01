@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Leibniz calculus 1684 Acta Eruditorum manuscript first publication differential"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Leibniz calculus 1684 Acta Eruditorum manuscript first publication differential",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3cd4b738cf8d.jpg",
+      "caption": "",
+      "source": "Auction Calendar - Upcoming Auctions & Events | Christie's",
+      "original_width": "2266px",
+      "original_height": "3200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/321b6da3f6f9.jpg",
+      "caption": "",
+      "source": "Oak Knoll Books",
+      "original_width": "1635px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/36e7272f9f69.jpg",
+      "caption": "",
+      "source": "Christie's",
+      "original_width": "2589px",
+      "original_height": "3200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d3717bda4ee2.jpg",
+      "caption": "",
+      "source": "Oak Knoll Books",
+      "original_width": "1769px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0d9c654bb328.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5f154ae4d186.png",
+      "caption": "",
+      "source": "Dormant Knowledge",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}

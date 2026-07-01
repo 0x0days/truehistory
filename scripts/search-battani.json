@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Battani Albategnius medieval Arabic astronomy manuscript star tables zij"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "al-Battani Albategnius medieval Arabic astronomy manuscript star tables zij",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d4647cbf274d.jpeg",
+      "caption": "",
+      "source": "Kaaf Seen - Medium",
+      "original_width": "1212px",
+      "original_height": "781px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/56b26a838089.jpg",
+      "caption": "",
+      "source": "Light of Islam",
+      "original_width": "1600px",
+      "original_height": "899px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6864db563a58.jpeg",
+      "caption": "",
+      "source": "Kaaf Seen - Medium",
+      "original_width": "1005px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b0a865ec03bd.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1995px",
+      "original_height": "943px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/99ff297c0bce.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7b7ab058d8d7.jpeg",
+      "caption": "",
+      "source": "Kaaf Seen - Medium",
+      "original_width": "1400px",
+      "original_height": "1381px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Daguerre Boulevard du Temple Paris 1838 daguerreotype photograph historical"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Daguerre Boulevard du Temple Paris 1838 daguerreotype photograph historical",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7b1e656f9756.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1080px",
+      "original_height": "774px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0afee8a20379.jpg",
+      "caption": "",
+      "source": "Un Jour de Plus à Paris",
+      "original_width": "800px",
+      "original_height": "1078px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ced57713d37a.jpg",
+      "caption": "",
+      "source": "Art Blart",
+      "original_width": "1302px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/999be208ad45.jpg",
+      "caption": "",
+      "source": "Vanguard News",
+      "original_width": "1500px",
+      "original_height": "1078px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7775a50b0aa6.jpg",
+      "caption": "",
+      "source": "CNN",
+      "original_width": "2000px",
+      "original_height": "1127px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5b8f49780405.png",
+      "caption": "",
+      "source": "Classic City News",
+      "original_width": "980px",
+      "original_height": "928px"
+    }
+  ]
+}

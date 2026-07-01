@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Hippocrates Galen medieval European medicine manuscript four humors"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Hippocrates Galen medieval European medicine manuscript four humors",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ed97a98beab5.png",
+      "caption": "",
+      "source": "National Library of Medicine - NIH",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8d7ad175f824.jpg",
+      "caption": "",
+      "source": "Quadriformisratio - WordPress.com",
+      "original_width": "922px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6943aff72423.jpg",
+      "caption": "",
+      "source": "Quadriformisratio - WordPress.com",
+      "original_width": "986px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4c18388a7c88.jpg",
+      "caption": "",
+      "source": "Quadriformisratio - WordPress.com",
+      "original_width": "885px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f51adad9926a.jpg",
+      "caption": "",
+      "source": "The Strand",
+      "original_width": "1440px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8353055483fa.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "860px",
+      "original_height": "1390px"
+    }
+  ]
+}

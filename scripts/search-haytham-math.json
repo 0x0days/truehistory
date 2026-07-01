@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn al-Haytham sum of fourth powers integration mathematics manuscript Arabic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ibn al-Haytham sum of fourth powers integration mathematics manuscript Arabic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/851393012efc.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0bdd9b35d54f.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1776px",
+      "original_height": "2067px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1a9f551cfb65.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3354f4378102.jpeg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2000px",
+      "original_height": "1352px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ecb696b79da2.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1315px",
+      "original_height": "1751px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8aceb7c7a0a0.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "907px",
+      "original_height": "1360px"
+    }
+  ]
+}

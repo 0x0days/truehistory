@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Biruni medieval Islamic scholar Persian miniature painting manuscript portrait"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "al-Biruni medieval Islamic scholar Persian miniature painting manuscript portrait",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/48d16fe9b2d1.jpeg",
+      "caption": "",
+      "source": "Cambridge University Press & Assessment",
+      "original_width": "833px",
+      "original_height": "1288px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8606b8006b1d.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "919px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1d87358f7f10.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "924px",
+      "original_height": "1151px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/66b11b8cfbb8.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1257px",
+      "original_height": "682px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bd5e61f7313c.jpg",
+      "caption": "",
+      "source": "EPOCH Magazine",
+      "original_width": "800px",
+      "original_height": "1232px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1ca15bf034cf.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1600px",
+      "original_height": "1127px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1e7a39a5d23e.jpg",
+      "caption": "",
+      "source": "OpenEdition Journals",
+      "original_width": "1403px",
+      "original_height": "1832px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4566044412d7.jpg",
+      "caption": "",
+      "source": "TheCollector",
+      "original_width": "1200px",
+      "original_height": "780px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Daguerre daguerreotype 1839 first photograph Boulevard du Temple Paris"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Daguerre daguerreotype 1839 first photograph Boulevard du Temple Paris",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b35583e94e82.jpg",
+      "caption": "",
+      "source": "Khan Academy",
+      "original_width": "2597px",
+      "original_height": "1805px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a2e52ad82526.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1049px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8fdb54c72161.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "2048px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0e6a5ab8605c.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b18fa9cf3db0.jpg",
+      "caption": "",
+      "source": "Metalocus",
+      "original_width": "1920px",
+      "original_height": "850px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cfae13b9f737.jpg",
+      "caption": "",
+      "source": "The Colour of Time with Marina Amaral - Substack",
+      "original_width": "2560px",
+      "original_height": "1862px"
+    }
+  ]
+}

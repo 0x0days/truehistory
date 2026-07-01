@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Islamic bimaristan hospital illustration surgical instruments Arabic"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "medieval Islamic bimaristan hospital illustration surgical instruments Arabic",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b5a612c72b96.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1280px",
+      "original_height": "792px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f80b14e6609b.jpg",
+      "caption": "",
+      "source": "National Geographic",
+      "original_width": "2355px",
+      "original_height": "3072px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1600e22b6ee5.jpg",
+      "caption": "",
+      "source": "Discover Islamic Art - Museum With No Frontiers",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1e6a9cec94ba.jpg",
+      "caption": "",
+      "source": "Medical News Today",
+      "original_width": "1100px",
+      "original_height": "944px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a76eb3b09c4f.jpg",
+      "caption": "",
+      "source": "Visit Damascus Syria",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/92ae7e68bdb3.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "702px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9193d2ded195.jpg",
+      "caption": "",
+      "source": "History Geographic",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/59bebe2d2cca.jpg",
+      "caption": "",
+      "source": "Discover Islamic Art - Museum With No Frontiers",
+      "original_width": "768px",
+      "original_height": "1024px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Maragheh observatory ruins astronomical instruments medieval Persia Ilkhanid"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Maragheh observatory ruins astronomical instruments medieval Persia Ilkhanid",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3c85a03151a3.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9b656bc42026.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/66d155db8da2.jpg",
+      "caption": "",
+      "source": "Springer Nature",
+      "original_width": "967px",
+      "original_height": "866px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7c34e0b9a864.jpg",
+      "caption": "",
+      "source": "Springer Nature",
+      "original_width": "685px",
+      "original_height": "1221px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/543188faef4f.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a420f258113e.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2002px",
+      "original_height": "1126px"
+    }
+  ]
+}

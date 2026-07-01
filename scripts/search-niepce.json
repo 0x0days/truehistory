@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Niepce View from Window at Le Gras 1822 first photograph heliograph"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Niepce View from Window at Le Gras 1822 first photograph heliograph",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/58562cb42457.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "945px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/290ade8f8bc0.jpg",
+      "caption": "",
+      "source": "PetaPixel",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dd5666e41bfc.jpg",
+      "caption": "",
+      "source": "Birgit Buchart | Substack",
+      "original_width": "4400px",
+      "original_height": "3520px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/566ba69b39c7.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1113px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/03b8f588f5bc.jpg",
+      "caption": "",
+      "source": "Przemek Zajfert",
+      "original_width": "1500px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3cc9c466b4ff.jpg",
+      "caption": "",
+      "source": "Amateur Photographer",
+      "original_width": "1024px",
+      "original_height": "768px"
+    }
+  ]
+}

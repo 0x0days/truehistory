@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Sharaf al-Din al-Tusi equations manuscript cubic algebra medieval Arabic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Sharaf al-Din al-Tusi equations manuscript cubic algebra medieval Arabic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a270160e949d.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1199px",
+      "original_height": "896px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3354f4378102.jpeg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2000px",
+      "original_height": "1352px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ac289cb432bf.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "967px",
+      "original_height": "1450px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/17970a738f02.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/481b81441a51.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2560px",
+      "original_height": "1667px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/178b2c12e8d6.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1947px",
+      "original_height": "1158px"
+    }
+  ]
+}

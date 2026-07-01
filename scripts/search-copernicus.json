@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Copernicus De Revolutionibus 1543 first edition title page original book manuscript"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Copernicus De Revolutionibus 1543 first edition title page original book manuscript",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4c01d8b45c40.jpg",
+      "caption": "",
+      "source": "Christie's",
+      "original_width": "2835px",
+      "original_height": "1647px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/54210313a15a.jpg",
+      "caption": "",
+      "source": "Ziereis Facsimiles",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f7c74a317b01.jpg",
+      "caption": "",
+      "source": "Auction Calendar - Upcoming Auctions & Events | Christie's",
+      "original_width": "3200px",
+      "original_height": "2603px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7b0b803a3bea.jpg",
+      "caption": "",
+      "source": "Auction Calendar - Upcoming Auctions & Events | Christie's",
+      "original_width": "2111px",
+      "original_height": "3200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0f34d57a8c36.jpg",
+      "caption": "",
+      "source": "Ziereis Facsimiles",
+      "original_width": "1985px",
+      "original_height": "1291px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b5d4d5ff1c4c.jpg",
+      "caption": "",
+      "source": "OneBid",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    }
+  ]
+}

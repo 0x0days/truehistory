@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Alhazen Latin medieval manuscript De Aspectibus Perspectiva optics diagram eye vision"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Alhazen Latin medieval manuscript De Aspectibus Perspectiva optics diagram eye vision",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3411b059300e.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1586px",
+      "original_height": "1717px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f64eec94a8f7.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1935px",
+      "original_height": "1845px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b30bf67dec0c.jpg",
+      "caption": "",
+      "source": "SOPHIA ∑ RARE BOOKS",
+      "original_width": "3647px",
+      "original_height": "5414px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/50f7d4f461a7.png",
+      "caption": "",
+      "source": "Springer Nature",
+      "original_width": "685px",
+      "original_height": "1154px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/21ced87e11ec.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1629px",
+      "original_height": "1942px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c6ca6562aecb.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1029px",
+      "original_height": "1663px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/82a2ddb26699.jpg",
+      "caption": "",
+      "source": "Milestones of Science Books",
+      "original_width": "1450px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/77533ee6b798.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1865px",
+      "original_height": "1671px"
+    }
+  ]
+}

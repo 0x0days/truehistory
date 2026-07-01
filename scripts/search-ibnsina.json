@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn Sina Avicenna Canon of Medicine Arabic manuscript medieval medical text"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Ibn Sina Avicenna Canon of Medicine Arabic manuscript medieval medical text",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/658d637ba59e.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3c438f8dd24a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "986px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e1d63eb4dd24.jpg",
+      "caption": "",
+      "source": "Facsimile Finder",
+      "original_width": "2100px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d0769a968653.jpg",
+      "caption": "",
+      "source": "MeisterDrucke",
+      "original_width": "719px",
+      "original_height": "1260px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/601615477b05.jpg",
+      "caption": "",
+      "source": "Facsimile Finder",
+      "original_width": "2100px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/714a130dfce9.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1191px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8ee5b4db2ff0.jpg",
+      "caption": "",
+      "source": "Pazzo Books",
+      "original_width": "2000px",
+      "original_height": "1494px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bc7b6afa825d.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "905px"
+    }
+  ]
+}

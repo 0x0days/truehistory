@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Sulayman al-Mahri navigation manuscript Arabic Indian Ocean geography 16th century"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Sulayman al-Mahri navigation manuscript Arabic Indian Ocean geography 16th century",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/650ac6a2cd13.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1755px",
+      "original_height": "2273px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a8cd867dd59d.png",
+      "caption": "",
+      "source": "Cambridge University Press & Assessment",
+      "original_width": "1250px",
+      "original_height": "1891px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e8630c97c516.png",
+      "caption": "",
+      "source": "Cambridge University Press & Assessment",
+      "original_width": "1304px",
+      "original_height": "2051px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d14de024f638.jpg",
+      "caption": "",
+      "source": "Open Publishing at ASU Library",
+      "original_width": "2500px",
+      "original_height": "1927px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0692acd59520.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1972px",
+      "original_height": "2619px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c3b33512db53.jpg",
+      "caption": "",
+      "source": "ReadingRoo.ms",
+      "original_width": "1000px",
+      "original_height": "1460px"
+    }
+  ]
+}

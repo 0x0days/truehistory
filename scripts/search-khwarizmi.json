@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Khwarizmi algebra manuscript Arabic mathematical text al-Jabr medieval"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "al-Khwarizmi algebra manuscript Arabic mathematical text al-Jabr medieval",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f95c67cb72d1.png",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1001px",
+      "original_height": "1389px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/178b2c12e8d6.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1947px",
+      "original_height": "1158px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3354f4378102.jpeg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2000px",
+      "original_height": "1352px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9b270659554d.jpg",
+      "caption": "",
+      "source": "Islamic Spain",
+      "original_width": "2130px",
+      "original_height": "2083px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d8ebc970d414.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c7679ece7e26.jpg",
+      "caption": "",
+      "source": "Atlas Obscura",
+      "original_width": "1920px",
+      "original_height": "1386px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/971eaab899e2.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/653d02daa9af.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2242px",
+      "original_height": "792px"
+    }
+  ]
+}

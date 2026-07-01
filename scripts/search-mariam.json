@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Mariam al-Asturlabiya astrolabe medieval Islamic woman scientist Aleppo"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Mariam al-Asturlabiya astrolabe medieval Islamic woman scientist Aleppo",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c36e0504538a.png",
+      "caption": "",
+      "source": "blogs.wellesley.edu",
+      "original_width": "1056px",
+      "original_height": "1406px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d10d30e9c0c9.png",
+      "caption": "",
+      "source": "blogs.wellesley.edu",
+      "original_width": "1030px",
+      "original_height": "1424px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5c737404633d.jpeg",
+      "caption": "",
+      "source": "Bayt Al Fann",
+      "original_width": "887px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5bd0138e136f.jpeg",
+      "caption": "",
+      "source": "Bayt Al Fann",
+      "original_width": "798px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7268a92f0b16.jpeg",
+      "caption": "",
+      "source": "Bayt Al Fann",
+      "original_width": "980px",
+      "original_height": "879px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1abf7a5001c8.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/53a115b89a51.jpeg",
+      "caption": "",
+      "source": "Bayt Al Fann",
+      "original_width": "899px",
+      "original_height": "1199px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/544021893c89.png",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    }
+  ]
+}

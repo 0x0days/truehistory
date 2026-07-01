@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ptolemy Geography medieval manuscript map world navigation coordinates"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Ptolemy Geography medieval manuscript map world navigation coordinates",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f1ce82f162b0.jpg",
+      "caption": "",
+      "source": "Grunge",
+      "original_width": "1600px",
+      "original_height": "899px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9894d38a5948.jpg",
+      "caption": "",
+      "source": "Princeton University Press",
+      "original_width": "2100px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b7da5d9b0907.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1044px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/96e890ecea03.png",
+      "caption": "",
+      "source": "Cartographic Images",
+      "original_width": "934px",
+      "original_height": "966px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0a85ee803af7.jpg",
+      "caption": "",
+      "source": "MeisterDrucke",
+      "original_width": "1260px",
+      "original_height": "787px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/75a8fdb55916.jpg",
+      "caption": "",
+      "source": "Bodleian Libraries blogs",
+      "original_width": "1500px",
+      "original_height": "1054px"
+    }
+  ]
+}

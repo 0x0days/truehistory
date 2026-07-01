@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Robert Grosseteste medieval manuscript mathematical method 13th century"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Robert Grosseteste medieval manuscript mathematical method 13th century",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ba7a47aa4980.jpg",
+      "caption": "",
+      "source": "SOPHIA ∑ RARE BOOKS",
+      "original_width": "3292px",
+      "original_height": "4372px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0ff6e5c5e793.jpg",
+      "caption": "",
+      "source": "Aeon",
+      "original_width": "2000px",
+      "original_height": "1252px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a57f4f28dad5.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1266px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a401a7925708.jpg",
+      "caption": "",
+      "source": "Table of Discontents – A History of the English Book Index - WordPress.com",
+      "original_width": "1106px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/529648e254c3.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2171px",
+      "original_height": "3367px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/39f467ca0358.jpg",
+      "caption": "",
+      "source": "Christie's",
+      "original_width": "3200px",
+      "original_height": "3200px"
+    }
+  ]
+}

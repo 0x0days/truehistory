@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Ibn al-Haytham Doubts Concerning Ptolemy Al-Shukuk manuscript Arabic scientific method"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Ibn al-Haytham Doubts Concerning Ptolemy Al-Shukuk manuscript Arabic scientific method",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/99ce8ea5de2a.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2084px",
+      "original_height": "3300px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/68898f36229b.jpg",
+      "caption": "",
+      "source": "Scribd",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/eaaa03901f89.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2869px",
+      "original_height": "2091px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dfd4199ea518.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2130px",
+      "original_height": "3234px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e4443d8e3bda.jpg",
+      "caption": "",
+      "source": "The Review of Religions",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c814c3017329.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2000px",
+      "original_height": "1374px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8725b969ec58.jpg",
+      "caption": "",
+      "source": "Aal-e-Qutub Aal-e-Syed Abdullah Shah Ghazi",
+      "original_width": "1086px",
+      "original_height": "814px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f9e7dab35ba1.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1600px",
+      "original_height": "1371px"
+    }
+  ]
+}

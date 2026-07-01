@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Tusi Couple Maragheh observatory Nasir al-Din al-Tusi planetary motion diagram manuscript"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Tusi Couple Maragheh observatory Nasir al-Din al-Tusi planetary motion diagram manuscript",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b80921687b38.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "814px",
+      "original_height": "1085px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fe856c2f1224.jpg",
+      "caption": "",
+      "source": "Nature",
+      "original_width": "1200px",
+      "original_height": "794px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b42cc2874b2c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1217px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/b3be6b761f40.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "1191px",
+      "original_height": "669px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9479a08e60c2.jpg",
+      "caption": "",
+      "source": "Nature",
+      "original_width": "1200px",
+      "original_height": "1489px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d5c70ba8389d.jpg",
+      "caption": "",
+      "source": "OER Project",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Alhazen eye anatomy optic nerve vision medieval illustration manuscript"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Alhazen eye anatomy optic nerve vision medieval illustration manuscript",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3cedaad959cb.png",
+      "caption": "",
+      "source": "Encyclopedia of the History of Science - Carnegie Mellon University",
+      "original_width": "900px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dfd4199ea518.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2130px",
+      "original_height": "3234px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ff005723f524.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "790px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2d2ec46c1f68.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "2098px",
+      "original_height": "1602px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c6ca6562aecb.jpg",
+      "caption": "",
+      "source": "The Renaissance Mathematicus - WordPress.com",
+      "original_width": "1029px",
+      "original_height": "1663px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/957f106e9283.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1021px",
+      "original_height": "1390px"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "medieval Islamic brass astrolabe museum photograph surviving instrument 10th century"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "medieval Islamic brass astrolabe museum photograph surviving instrument 10th century",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f30d7fcce4e0.jpg",
+      "caption": "",
+      "source": "Caravanserai - Substack",
+      "original_width": "1000px",
+      "original_height": "1141px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d926307858dd.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1e98b3eb0a13.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "999px",
+      "original_height": "1503px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d29f2694990b.jpeg",
+      "caption": "",
+      "source": "Bayt Al Fann",
+      "original_width": "887px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5113c6dd79b4.jpg",
+      "caption": "",
+      "source": "Caravanserai - Substack",
+      "original_width": "1000px",
+      "original_height": "1333px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8125f52adbd0.jpg",
+      "caption": "",
+      "source": "Erenow",
+      "original_width": "1033px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9650243f9d07.jpg",
+      "caption": "",
+      "source": "Islamic Art & Science",
+      "original_width": "1300px",
+      "original_height": "1955px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c888bbf22272.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1027px",
+      "original_height": "1192px"
+    }
+  ]
+}

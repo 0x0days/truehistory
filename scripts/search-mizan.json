@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Kitab Mizan al-Hikma al-Khazini Arabic manuscript page medieval balance instrument diagram"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "Kitab Mizan al-Hikma al-Khazini Arabic manuscript page medieval balance instrument diagram",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/aaad8b4a25b0.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1280px",
+      "original_height": "902px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/401cc26645e6.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "923px",
+      "original_height": "1088px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/36c1d777b7a5.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1300px",
+      "original_height": "817px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8ca4fac7f4db.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1080px",
+      "original_height": "1144px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f4bded446aa8.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1080px",
+      "original_height": "765px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d8fca1569b65.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1025px",
+      "original_height": "923px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8693d5785757.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "736px",
+      "original_height": "1073px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/653d02daa9af.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2242px",
+      "original_height": "792px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Al-Razi Rhazes medieval manuscript medicine clinical trial Arabic"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Al-Razi Rhazes medieval manuscript medicine clinical trial Arabic",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bacbec332092.jpg",
+      "caption": "",
+      "source": "National Library of Medicine - NIH",
+      "original_width": "1200px",
+      "original_height": "1785px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e4e8a243163d.jpg",
+      "caption": "",
+      "source": "National Library of Medicine - NIH",
+      "original_width": "1200px",
+      "original_height": "1781px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ef8255a9bce6.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "3273px",
+      "original_height": "3030px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f80b14e6609b.jpg",
+      "caption": "",
+      "source": "National Geographic",
+      "original_width": "2355px",
+      "original_height": "3072px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/77d8ba10f70d.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1522px",
+      "original_height": "1084px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/104ff5bbed3a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1005px",
+      "original_height": "1390px"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "al-Razi Rhazes medieval medical manuscript Arabic Kitab al-Hawi clinical"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "al-Razi Rhazes medieval medical manuscript Arabic Kitab al-Hawi clinical",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f89a7f634f4c.png",
+      "caption": "",
+      "source": "History of Information",
+      "original_width": "775px",
+      "original_height": "1074px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6128a30dea24.jpg",
+      "caption": "",
+      "source": "Medieval Manuscripts at the National Library of Medicine",
+      "original_width": "795px",
+      "original_height": "1174px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e4e8a243163d.jpg",
+      "caption": "",
+      "source": "National Library of Medicine - NIH",
+      "original_width": "1200px",
+      "original_height": "1781px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/aa6aff4b20a3.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "1280px",
+      "original_height": "792px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d75d35f8389e.jpg",
+      "caption": "",
+      "source": "The James Lind Library",
+      "original_width": "798px",
+      "original_height": "1140px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/90d78ec06830.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "750px",
+      "original_height": "1250px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c3d318449b44.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/27daf420593a.jpg",
+      "caption": "",
+      "source": "Muslim Heritage",
+      "original_width": "2140px",
+      "original_height": "1338px"
+    }
+  ]
+}

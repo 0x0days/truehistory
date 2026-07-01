@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Vasco da Gama voyage India 1498 historical illustration Portuguese caravel"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Vasco da Gama voyage India 1498 historical illustration Portuguese caravel",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a48d32795e81.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "996px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/db3a3edb0ba5.png",
+      "caption": "",
+      "source": "Knight Lab",
+      "original_width": "1912px",
+      "original_height": "1122px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6364a43a4406.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bfb9cdaaa616.png",
+      "caption": "",
+      "source": "Cambridge University Press & Assessment",
+      "original_width": "3224px",
+      "original_height": "2372px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/17be9876ed06.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f8b32d602e5a.jpg",
+      "caption": "",
+      "source": "Globalyceum",
+      "original_width": "2841px",
+      "original_height": "2156px"
+    }
+  ]
+}

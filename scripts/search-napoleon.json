@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Napoleon Egypt expedition 1798 Description de l'Egypte scholars manuscripts"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "Napoleon Egypt expedition 1798 Description de l'Egypte scholars manuscripts",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c7c3a4cfbc25.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "730px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/5af013e05dfd.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "939px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0f837afb8dfd.jpg",
+      "caption": "",
+      "source": "Auction Calendar - Upcoming Auctions & Events | Christie's",
+      "original_width": "2068px",
+      "original_height": "3200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/dd0128432bb9.jpg",
+      "caption": "",
+      "source": "Sotheby's",
+      "original_width": "5535px",
+      "original_height": "3924px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4fedfedefea8.jpg",
+      "caption": "",
+      "source": "Thinking 3D",
+      "original_width": "1458px",
+      "original_height": "1458px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e26ef53306f6.jpg",
+      "caption": "",
+      "source": "Thinking 3D",
+      "original_width": "4898px",
+      "original_height": "3265px"
+    }
+  ]
+}
