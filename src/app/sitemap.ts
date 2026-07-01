@@ -6,7 +6,7 @@ import type { MetadataRoute } from 'next';
  * Includes all 4 locales × all investigation pages.
  * Submitted to Google Search Console for indexing.
  */
-const BASE_URL = 'https://behstory.netlify.app';
+const BASE_URL = 'https://behistory.netlify.app';
 const LOCALES = ['en', 'fr', 'de', 'ar'];
 
 // All investigation IDs
