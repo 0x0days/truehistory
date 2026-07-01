@@ -59,7 +59,7 @@ export default function CalculusDiscoverySection() {
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             whileInView={{ opacity: 1, scale: 1 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7 }}
             className="glass-card-gold rounded-2xl overflow-hidden relative group"
           >
@@ -115,7 +115,7 @@ export default function CalculusDiscoverySection() {
             <motion.div
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
-              viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+              viewport={{ once: true, margin: "0px 0px 50% 0px" }}
               transition={{ delay: 0.5, duration: 0.8 }}
               className="mt-8 pl-8 space-y-3"
             >
@@ -160,7 +160,7 @@ export default function CalculusDiscoverySection() {
         <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ delay: 0.4 }}
           className="text-center mt-16"
         >

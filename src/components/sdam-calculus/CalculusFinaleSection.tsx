@@ -40,7 +40,7 @@ export default function CalculusFinaleSection() {
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
-        viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+        viewport={{ once: true, margin: "0px 0px 50% 0px" }}
         transition={{ duration: 1.5 }}
         className="absolute inset-0 pointer-events-none"
         style={{
@@ -53,7 +53,7 @@ export default function CalculusFinaleSection() {
         <motion.p
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-6"
         >
@@ -63,7 +63,7 @@ export default function CalculusFinaleSection() {
         <motion.h2
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8, delay: 0.1 }}
           className="font-display text-3xl sm:text-5xl md:text-6xl text-cream leading-tight mb-8"
         >
@@ -73,7 +73,7 @@ export default function CalculusFinaleSection() {
         <motion.blockquote
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8, delay: 0.3 }}
           className="glass-card-gold rounded-2xl p-8 sm:p-10 mb-10 relative"
         >
@@ -88,7 +88,7 @@ export default function CalculusFinaleSection() {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.4 }}
           className="grid sm:grid-cols-3 gap-4 mb-12"
         >
@@ -108,7 +108,7 @@ export default function CalculusFinaleSection() {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.5 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-8"
         >
@@ -132,7 +132,7 @@ export default function CalculusFinaleSection() {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.6 }}
           className="glass-card rounded-2xl p-6 sm:p-8 max-w-2xl mx-auto mb-10"
         >
@@ -157,7 +157,7 @@ export default function CalculusFinaleSection() {
         <motion.button
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.6, delay: 0.7 }}
           onClick={scrollTop}
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-gold/40 hover:border-gold hover:bg-gold/10 transition-all text-cream text-xs font-mono uppercase tracking-wider group"
@@ -170,7 +170,7 @@ export default function CalculusFinaleSection() {
         <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8, delay: 1 }}
           className="mt-16 pt-8 border-t border-gold/10"
         >

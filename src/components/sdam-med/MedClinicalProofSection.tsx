@@ -11,7 +11,7 @@ export default function MedClinicalProofSection() {
     <section id="math" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 overflow-hidden">
       <div className="absolute inset-0 opacity-[0.025] pointer-events-none" style={{ backgroundImage: 'linear-gradient(rgba(212,175,55,1) 1px, transparent 1px), linear-gradient(90deg, rgba(212,175,55,1) 1px, transparent 1px)', backgroundSize: '60px 60px' }} />
       <div className="max-w-5xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4 flex items-center justify-center gap-2"><Sigma className="w-3 h-3" />Chapter 04b — The Clinical Proof</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Three theorems.<br /><span className="text-gradient-gold italic">Centuries early.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">Modern medicine is not a European invention. The controlled clinical trial, contagion theory, and pulmonary circulation were all stated in Arabic — 350–900 years before the European &ldquo;discoverers.&rdquo; The Canon of Medicine was Europe&apos;s textbook for 600 years. The European &ldquo;innovations&rdquo; were restatements.</p>
@@ -20,7 +20,7 @@ export default function MedClinicalProofSection() {
           {THEOREMS.map((th, i) => {
             const Icon = th.icon;
             return (
-              <motion.div key={th.id} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: i * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden">
+              <motion.div key={th.id} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: i * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden">
                 <div className="flex items-center gap-4 p-5 sm:p-6 border-b border-gold/15">
                   <div className="w-12 h-12 rounded-full bg-gold/10 border border-gold/30 flex items-center justify-center flex-shrink-0"><Icon className="w-6 h-6 text-gold" /></div>
                   <div className="flex-1 min-w-0"><p className="text-[10px] font-mono uppercase tracking-widest text-gold/70 mb-1">Theorem {String.fromCharCode(8544 + i)} · {th.attribution}</p><h3 className="font-display text-xl sm:text-2xl text-cream leading-tight">{th.title}</h3></div>
@@ -38,7 +38,7 @@ export default function MedClinicalProofSection() {
             );
           })}
         </div>
-        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-12 text-center max-w-3xl mx-auto">
+        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-12 text-center max-w-3xl mx-auto">
           <p className="text-cream/90 text-sm sm:text-base leading-relaxed">Vesalius, Harvey, and Pasteur were all brilliant. But the controlled trial, contagion theory, and pulmonary circulation were already in writing — in Arabic — 350–900 years earlier. The Canon of Medicine was their textbook. SDAM treats these manuscripts as <span className="text-gold">Tier-1 primary evidence</span>.</p>
         </motion.div>
       </div>

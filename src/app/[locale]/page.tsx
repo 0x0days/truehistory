@@ -9,6 +9,8 @@ import InvestigationSelector, {
   INVESTIGATIONS,
 } from '@/components/InvestigationSelector';
 import BackToSelectorButton from '@/components/BackToSelectorButton';
+import SEOHead from '@/components/SEOHead';
+import StructuredData from '@/components/StructuredData';
 
 // Gravity (Vol. I)
 import ScrollProgressGravity from '@/components/sdam/ScrollProgress';
@@ -417,9 +419,11 @@ function HomeContent() {
     );
   }
 
-  // Investigation views
+  // Investigation views — pass investigation ID to SEOHead + StructuredData
   return (
     <main className="relative min-h-screen flex flex-col bg-cosmos">
+      <SEOHead investigation={v} />
+      <StructuredData investigation={v} />
       {v === 'gravity' && <GravityInvestigation onBack={backToSelector} />}
       {v === 'optics' && <OpticsInvestigation onBack={backToSelector} />}
       {v === 'method' && <MethodInvestigation onBack={backToSelector} />}

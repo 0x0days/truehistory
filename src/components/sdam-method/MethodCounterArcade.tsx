@@ -63,7 +63,7 @@ export default function MethodCounterArcade() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-12"
         >
@@ -91,7 +91,7 @@ export default function MethodCounterArcade() {
                 key={obj.id}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.5, delay: i * 0.08 }}
                 className={`rounded-2xl border transition-all duration-500 ${
                   isOpen
@@ -158,7 +158,7 @@ export default function MethodCounterArcade() {
         <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.4 }}
           className="text-center mt-10"
         >

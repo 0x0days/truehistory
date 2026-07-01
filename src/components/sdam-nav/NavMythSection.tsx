@@ -61,7 +61,7 @@ export default function NavMythSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
@@ -106,7 +106,7 @@ export default function NavMythSection() {
           <motion.div
             initial={{ width: 0 }}
             whileInView={{ opacity: 1 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.9, delay: 0.3 }}
             className="h-px gradient-gold mx-auto mt-8"
           />
@@ -128,7 +128,7 @@ function TimelineCard({
     <motion.div
       initial={{ opacity: 0, y: 50, x: isLeft ? -30 : 30 }}
       whileInView={{ opacity: 1, y: 0, x: 0 }}
-      viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+      viewport={{ once: true, margin: "0px 0px 50% 0px" }}
       transition={{ duration: 0.8, delay: 0.1 }}
       className={`relative pl-16 sm:pl-0 flex ${isLeft ? 'sm:justify-start' : 'sm:justify-end'}`}
     >

@@ -21,7 +21,7 @@ export default function MedLibraryTheftSection() {
       <div className="absolute inset-0 bg-gradient-to-b from-cosmos via-cosmos-deep to-cosmos pointer-events-none" />
       <div className="absolute inset-0 opacity-[0.03] pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 30% 50%, rgba(107, 29, 42, 0.4) 0%, transparent 50%)' }} />
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-burgundy mb-4 flex items-center justify-center gap-2"><Flame className="w-3 h-3" />{tSections('LibraryTheft.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">{tH('LibraryTheft.med')}<br /><span className="text-gradient-gold italic">reached Europe.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">The Canon of Medicine — Europe&apos;s medical textbook for 600 years — did not arrive in France by accident. It arrived through the Toledo translation (12th c.), the fall of Constantinople (1453), and 500 years of use at European universities. The Arabic authors were renamed. The clinical method was claimed as European. The evidence is in every European medical library.</p>
@@ -30,7 +30,7 @@ export default function MedLibraryTheftSection() {
           {THEFTS.map((theft, i) => {
             const Icon = theft.icon;
             return (
-              <motion.article key={theft.id} initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: i * 0.05 }} className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'}`}>
+              <motion.article key={theft.id} initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: i * 0.05 }} className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'}`}>
                 <div className="relative sm:w-2/5 aspect-[4/3] sm:aspect-[4/3] overflow-hidden flex-shrink-0">
                   <Image src={theft.image} alt={theft.imageAlt} fill sizes="(max-width: 640px) 100vw, 40vw" className="object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/80 via-transparent to-transparent sm:bg-gradient-to-r" />
@@ -49,7 +49,7 @@ export default function MedLibraryTheftSection() {
             );
           })}
         </div>
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8, delay: 0.4 }} className="mt-16 text-center max-w-3xl mx-auto">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8, delay: 0.4 }} className="mt-16 text-center max-w-3xl mx-auto">
           <div className="glass-card-gold rounded-2xl p-6 sm:p-8 glow-gold">
             <ArrowRight className="w-6 h-6 text-gold mx-auto mb-3" />
             <p className="font-display text-xl sm:text-2xl text-cream italic leading-snug mb-4">European &ldquo;Renaissance medicine&rdquo; was built on a 600-year-old Arabic textbook.</p>

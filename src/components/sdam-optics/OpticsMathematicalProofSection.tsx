@@ -84,7 +84,7 @@ export default function OpticsMathematicalProofSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-14"
         >
@@ -113,7 +113,7 @@ export default function OpticsMathematicalProofSection() {
                 key={th.id}
                 initial={{ opacity: 0, y: 40 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.7, delay: i * 0.1 }}
                 className="glass-card-gold rounded-2xl overflow-hidden"
               >
@@ -204,7 +204,7 @@ export default function OpticsMathematicalProofSection() {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.4 }}
           className="mt-12 text-center max-w-3xl mx-auto"
         >

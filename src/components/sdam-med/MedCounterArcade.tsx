@@ -14,7 +14,7 @@ export default function MedCounterArcade() {
   return (
     <section id="arcade" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 manuscript-bg">
       <div className="max-w-4xl w-full">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4 flex items-center justify-center gap-2"><Swords className="w-3 h-3" />Chapter 10 — The Counter-Argument Arcade</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Every objection.<br /><span className="text-gradient-gold italic">Pre-empted.</span></h2>
         </motion.div>
@@ -22,7 +22,7 @@ export default function MedCounterArcade() {
           {OBJECTIONS.map((obj, i) => {
             const isOpen = open === obj.id;
             return (
-              <motion.div key={obj.id} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.5, delay: i * 0.08 }} className={`rounded-2xl border transition-all duration-500 ${isOpen ? 'glass-card-gold border-gold/50 glow-gold' : 'glass-card border-cream-dim/15 hover:border-gold/30'}`}>
+              <motion.div key={obj.id} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.5, delay: i * 0.08 }} className={`rounded-2xl border transition-all duration-500 ${isOpen ? 'glass-card-gold border-gold/50 glow-gold' : 'glass-card border-cream-dim/15 hover:border-gold/30'}`}>
                 <button onClick={() => setOpen(isOpen ? null : obj.id)} className="w-full text-left p-5 sm:p-6 flex items-start gap-4" aria-expanded={isOpen}>
                   <span className="flex-shrink-0 w-8 h-8 rounded-full glass-card flex items-center justify-center font-display text-gold text-sm">{String.fromCharCode(64 + obj.id)}</span>
                   <div className="flex-1 min-w-0"><p className="font-mono text-[10px] uppercase tracking-widest text-burgundy mb-2">Objection #{obj.id} · {obj.source}</p><p className="font-display text-base sm:text-lg text-cream leading-snug italic">&ldquo;{obj.challenge}&rdquo;</p></div>

@@ -44,14 +44,14 @@ export default function UniEuropeanDarknessSection() {
       <div className="absolute inset-0 bg-gradient-to-b from-cosmos via-cosmos-deep to-cosmos pointer-events-none" />
       <div className="absolute inset-0 opacity-[0.04] pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 50% 30%, rgba(107, 29, 42, 0.5) 0%, transparent 50%)' }} />
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-burgundy mb-4 flex items-center justify-center gap-2"><Flame className="w-3 h-3" />Chapter 04c — The European Darkness</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">While Fatima built a university,<br /><span className="text-burgundy italic">Europe burned women alive.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">The same centuries that saw Fatima al-Fehri found the world&apos;s oldest university (859 CE), Lubna manage a library of 500,000 books (960s CE), and Dhayfa Khatun finance hospital-universities (1230s CE) — saw European women denied souls, burned as witches for practicing medicine, and executed by the Inquisition for claiming scientific truth. This is the contrast the textbooks do not make.</p>
         </motion.div>
         <div className="space-y-6">
           {HORRORS.map((h, i) => (
-            <motion.article key={i} initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: i * 0.05 }} className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'}`}>
+            <motion.article key={i} initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: i * 0.05 }} className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'}`}>
               <div className="relative sm:w-2/5 aspect-[4/3] sm:aspect-[4/3] overflow-hidden flex-shrink-0">
                 <Image src={h.image} alt={h.imageAlt} fill sizes="(max-width: 640px) 100vw, 40vw" className="object-cover" style={{ filter: 'grayscale(20%) brightness(0.85)' }} />
                 <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/90 via-cosmos-deep/40 to-transparent sm:bg-gradient-to-r" />
@@ -69,7 +69,7 @@ export default function UniEuropeanDarknessSection() {
           ))}
         </div>
         {/* The direct contrast */}
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8, delay: 0.4 }} className="mt-16 text-center">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8, delay: 0.4 }} className="mt-16 text-center">
           <div className="glass-card-gold rounded-2xl p-6 sm:p-8 glow-gold max-w-3xl mx-auto">
             <p className="font-display text-xl sm:text-2xl text-cream italic leading-snug mb-6">The same year. The same century. Two civilizations.</p>
             <div className="grid grid-cols-2 gap-4 text-left">

@@ -23,7 +23,7 @@ export default function AlgDiscoverySection() {
           <p className="font-mono text-cream-dim tracking-[0.5em] uppercase text-xs sm:text-sm mt-2">Common Era · Baghdad · House of Wisdom</p>
         </motion.div>
         <motion.div style={{ y: contentY, opacity: contentOpacity }} className="grid md:grid-cols-2 gap-8 items-center max-w-4xl mx-auto">
-          <motion.div initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
+          <motion.div initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image src="/images/sdam-alg/khwarizmi-muslim-heritage-1.jpg" alt="Authentic Arabic mathematical manuscript page showing geometric diagrams and algebraic text, in the tradition of al-Khwarizmi" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep via-cosmos/40 to-transparent" />
@@ -43,7 +43,7 @@ export default function AlgDiscoverySection() {
               That fondness for science, by which God has distinguished him, led him to the study of the book of the Indians on calculation — and he composed a book on algebra, an art by which is discovered that which is unknown.
             </blockquote>
             <p className="text-cream-dim text-sm mt-4 pl-8">— al-Khwārizmī, preface to <em>al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wa-al-Muqābala</em> (The Compendious Book on Calculation by Completion and Balancing), c. 820 CE</p>
-            <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ delay: 0.5, duration: 0.8 }} className="mt-8 pl-8 space-y-3">
+            <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ delay: 0.5, duration: 0.8 }} className="mt-8 pl-8 space-y-3">
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">01</span><span className="text-cream/85 text-sm">The word <span className="text-gradient-gold font-semibold">algorithm</span> is a Latinized form of his name: al-Khwārizmī → Algoritmi → algorismus → algorithm.</span></div>
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">02</span><span className="text-cream/85 text-sm">The word <span className="text-gradient-gold font-semibold">algebra</span> is the title of his book: <em>al-Jabr</em> (completion).</span></div>
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">03</span><span className="text-cream/85 text-sm">He introduced Hindu-Arabic numerals (0–9) to the Islamic world and, through Latin translation, to Europe.</span></div>
@@ -51,7 +51,7 @@ export default function AlgDiscoverySection() {
             </motion.div>
           </div>
         </motion.div>
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ delay: 0.4 }} className="text-center mt-16"><p className="text-cream-dim text-sm">His name became the word. But his mathematics was even more revolutionary.</p><p className="text-gold font-display text-xl sm:text-2xl italic mt-2">The Book of al-Jabr — the first systematic algebra.</p></motion.div>
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ delay: 0.4 }} className="text-center mt-16"><p className="text-cream-dim text-sm">His name became the word. But his mathematics was even more revolutionary.</p><p className="text-gold font-display text-xl sm:text-2xl italic mt-2">The Book of al-Jabr — the first systematic algebra.</p></motion.div>
       </div>
     </section>
   );

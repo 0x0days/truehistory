@@ -189,7 +189,7 @@ export default function NavSimulator() {
     <section id="simulator" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 overflow-hidden">
       <div className="absolute inset-0 opacity-[0.025] pointer-events-none" style={{ backgroundImage: 'linear-gradient(rgba(212,175,55,1) 1px, transparent 1px), linear-gradient(90deg, rgba(212,175,55,1) 1px, transparent 1px)', backgroundSize: '80px 80px' }} />
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-10">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-10">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4">Chapter 07 — Use the Astrolabe</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Measure the star.<br /><span className="text-gradient-gold italic">Find your latitude.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base">This is the instrument Mariam al-Asturlābiyya perfected — the GPS of the medieval world. Drag the slider to set the altitude of Polaris (the pole star). The astrolabe computes your latitude. This is how Ibn Mājid navigated the Indian Ocean — and how Vasco da Gama&apos;s crew reached India in 1497.</p>

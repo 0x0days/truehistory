@@ -13,7 +13,7 @@ export default function AlgMathematicalProofSection() {
     <section id="math" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 overflow-hidden">
       <div className="absolute inset-0 opacity-[0.025] pointer-events-none" style={{ backgroundImage: 'linear-gradient(rgba(212,175,55,1) 1px, transparent 1px), linear-gradient(90deg, rgba(212,175,55,1) 1px, transparent 1px)', backgroundSize: '60px 60px' }} />
       <div className="max-w-5xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4 flex items-center justify-center gap-2"><Sigma className="w-3 h-3" />{tSections('MathematicalProof.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Three theorems.<br /><span className="text-gradient-gold italic">All named after him.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">No other SDAM case has this: the discipline&apos;s name, the method&apos;s name, and the number system&apos;s origin all trace to one person. <span className="text-gold">Algebra</span> = his book. <span className="text-gold">Algorithm</span> = his name. <span className="text-gold">Arabic numerals</span> = his transmission. The mathematical content is equally original.</p>
@@ -22,7 +22,7 @@ export default function AlgMathematicalProofSection() {
           {THEOREMS.map((th, i) => {
             const Icon = th.icon;
             return (
-              <motion.div key={th.id} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: i * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden">
+              <motion.div key={th.id} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: i * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden">
                 <div className="flex items-center gap-4 p-5 sm:p-6 border-b border-gold/15"><div className="w-12 h-12 rounded-full bg-gold/10 border border-gold/30 flex items-center justify-center flex-shrink-0"><Icon className="w-6 h-6 text-gold" /></div><div className="flex-1 min-w-0"><p className="text-[10px] font-mono uppercase tracking-widest text-gold/70 mb-1">Theorem {String.fromCharCode(8544 + i)} · {th.attribution}</p><h3 className="font-display text-xl sm:text-2xl text-cream leading-tight">{th.title}</h3></div></div>
                 <div className="p-5 sm:p-7 space-y-5">
                   <div><p className="text-[10px] font-mono uppercase tracking-widest text-cream-dim mb-2">Statement</p><p className="text-cream text-base sm:text-lg leading-relaxed italic font-display">&ldquo;{th.statement}&rdquo;</p></div>
@@ -34,7 +34,7 @@ export default function AlgMathematicalProofSection() {
             );
           })}
         </div>
-        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-12 text-center max-w-3xl mx-auto"><p className="text-cream/90 text-sm sm:text-base leading-relaxed">Fibonacci, Cardano, Vieta, and Turing were all brilliant. But the systematic method, the quadratic formula, and the number system they used were all in writing — in Arabic — 382–771 years earlier. The word &ldquo;algorithm&rdquo; is his name. SDAM treats this as <span className="text-gold">Tier-1 primary evidence — the only case where the proof IS the name.</span></p></motion.div>
+        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-12 text-center max-w-3xl mx-auto"><p className="text-cream/90 text-sm sm:text-base leading-relaxed">Fibonacci, Cardano, Vieta, and Turing were all brilliant. But the systematic method, the quadratic formula, and the number system they used were all in writing — in Arabic — 382–771 years earlier. The word &ldquo;algorithm&rdquo; is his name. SDAM treats this as <span className="text-gold">Tier-1 primary evidence — the only case where the proof IS the name.</span></p></motion.div>
       </div>
     </section>
   );

@@ -20,15 +20,15 @@ export default function NavFinaleSection() {
 
   return (
     <section id="finale" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 overflow-hidden">
-      <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 1.5 }} className="absolute inset-0 pointer-events-none" style={{ background: 'radial-gradient(circle at 50% 40%, rgba(212,175,55,0.16) 0%, transparent 60%)' }} />
+      <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 1.5 }} className="absolute inset-0 pointer-events-none" style={{ background: 'radial-gradient(circle at 50% 40%, rgba(212,175,55,0.16) 0%, transparent 60%)' }} />
       <div className="max-w-4xl w-full relative z-10 text-center">
-        <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-6">{tCommon('correctedRecord')}</motion.p>
-        <motion.h2 initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8, delay: 0.1 }} className="font-display text-3xl sm:text-5xl md:text-6xl text-cream leading-tight mb-8">{tCommon('nextTextbook')}:</motion.h2>
-        <motion.blockquote initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8, delay: 0.3 }} className="glass-card-gold rounded-2xl p-8 sm:p-10 mb-10 relative">
+        <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-6">{tCommon('correctedRecord')}</motion.p>
+        <motion.h2 initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8, delay: 0.1 }} className="font-display text-3xl sm:text-5xl md:text-6xl text-cream leading-tight mb-8">{tCommon('nextTextbook')}:</motion.h2>
+        <motion.blockquote initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8, delay: 0.3 }} className="glass-card-gold rounded-2xl p-8 sm:p-10 mb-10 relative">
           <span className="absolute -top-4 left-6 text-gold/30 text-6xl font-display select-none">&ldquo;</span>
           <p className="font-display text-base sm:text-xl md:text-2xl text-cream leading-relaxed italic">{tBody('blockquote')}</p>
         </motion.blockquote>
-        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="grid sm:grid-cols-3 gap-4 mb-12">
+        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="grid sm:grid-cols-3 gap-4 mb-12">
           {[
             { num: '01', t: tBody('principles.1.title'), d: tBody('principles.1.desc') },
             { num: '02', t: tBody('principles.2.title'), d: tBody('principles.2.desc') },
@@ -37,18 +37,18 @@ export default function NavFinaleSection() {
             <div key={p.num} className="glass-card rounded-xl p-5 text-left"><p className="font-mono text-xs text-gold mb-1">{p.num}</p><p className="font-display text-base text-cream mb-1">{p.t}</p><p className="text-cream-dim text-xs leading-relaxed">{p.d}</p></div>
           ))}
         </motion.div>
-        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.5 }} className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-8">
+        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.5 }} className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-8">
           <span className="flex items-center gap-2 text-cream-dim text-sm"><Share2 className="w-4 h-4" />{tCommon('shareLabel')}</span>
           <div className="flex flex-wrap items-center justify-center gap-2">{shareButtons.map((btn) => (<button key={btn.label} onClick={() => openShare(btn.platform)} className="px-4 py-2 rounded-full border border-cream-dim/20 bg-cosmos-soft/60 backdrop-blur-md hover:border-gold/60 hover:bg-gold/10 transition-all text-cream text-xs font-mono uppercase tracking-wider">{btn.label}</button>))}</div>
         </motion.div>
-        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.6 }} className="glass-card rounded-2xl p-6 sm:p-8 max-w-2xl mx-auto mb-10">
+        <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.6 }} className="glass-card rounded-2xl p-6 sm:p-8 max-w-2xl mx-auto mb-10">
           <div className="flex items-center justify-center gap-2 mb-3 text-gold"><BookOpen className="w-5 h-5" /><span className="font-mono text-xs uppercase tracking-widest">{tCommon('frameworkGeneral')}</span></div>
           <p className="font-display text-xl sm:text-2xl text-cream mb-2">{tCommon('whatNext')}</p>
           <p className="text-cream-dim text-sm mb-4">Algebra · Medicine · Trigonometry · The hospital · Cartography · Architecture…</p>
           <p className="text-gold/80 text-xs italic">{tC('whatNextHint')}</p>
         </motion.div>
-        <motion.button initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.6, delay: 0.7 }} onClick={scrollTop} className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-gold/40 hover:border-gold hover:bg-gold/10 transition-all text-cream text-xs font-mono uppercase tracking-wider group"><ArrowUp className="w-3.5 h-3.5 group-hover:-translate-y-0.5 transition-transform" />{tCommon('reinvestigate')}<RotateCcw className="w-3 h-3 opacity-60" /></motion.button>
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8, delay: 1 }} className="mt-16 pt-8 border-t border-gold/10">
+        <motion.button initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.6, delay: 0.7 }} onClick={scrollTop} className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-gold/40 hover:border-gold hover:bg-gold/10 transition-all text-cream text-xs font-mono uppercase tracking-wider group"><ArrowUp className="w-3.5 h-3.5 group-hover:-translate-y-0.5 transition-transform" />{tCommon('reinvestigate')}<RotateCcw className="w-3 h-3 opacity-60" /></motion.button>
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8, delay: 1 }} className="mt-16 pt-8 border-t border-gold/10">
           <p className="font-display text-sm text-cream-dim italic">{tC('footerText')} <span className="text-gold">Scientific Discovery Attribution Methodology</span>.</p>
           <p className="font-mono text-[10px] uppercase tracking-widest text-cream-dim/60 mt-2">Seven pillars · CES 16/21 · Very Strong Case · Navigation + The Library Theft</p>
         </motion.div>

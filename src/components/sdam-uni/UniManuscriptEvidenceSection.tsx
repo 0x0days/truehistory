@@ -18,7 +18,7 @@ export default function UniManuscriptEvidenceSection() {
   return (
     <section id="evidence" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 manuscript-bg overflow-hidden">
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4">{tSections('ManuscriptEvidence.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Real institutions.<br /><span className="text-gradient-gold italic">Real persecution.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base">Every image below is an authentic historical artifact — a surviving university building, a medieval manuscript, or a historical illustration of European persecution. The contrast is visible in the images themselves: Islamic architecture vs. burning stakes.</p>
@@ -27,7 +27,7 @@ export default function UniManuscriptEvidenceSection() {
           {EVIDENCE.map((item, i) => {
             const Icon = item.icon;
             return (
-              <motion.figure key={item.title} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: (i % 3) * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden group flex flex-col">
+              <motion.figure key={item.title} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: (i % 3) * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden group flex flex-col">
                 <div className={`relative ${item.aspect} overflow-hidden`}>
                   <Image src={item.image} alt={item.title} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                   <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/80 via-transparent to-transparent" />
@@ -43,7 +43,7 @@ export default function UniManuscriptEvidenceSection() {
             );
           })}
         </div>
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-10 text-center">
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="mt-10 text-center">
           <p className="text-cream-dim/70 text-xs italic max-w-2xl mx-auto leading-relaxed">No contemporary portrait of Fatima al-Fehri, Lubna of Cordoba, or Dhayfa Khatun survives. What survives is greater than any portrait: the institutions they built, the libraries they managed, and the records of those who wrote about them. The European persecution images are authentic historical illustrations of documented events.</p>
         </motion.div>
       </div>

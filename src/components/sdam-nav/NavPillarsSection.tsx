@@ -86,7 +86,7 @@ export default function NavPillarsSection() {
   return (
     <section id="pillars" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24">
       <div className="max-w-7xl w-full">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4">{tSections('Pillars.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Tap each pillar<br /><span className="text-gradient-gold italic">to weigh the evidence.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base">Each pillar contributes to a Cumulative Evidence Score (CES) out of 21. Reveal all seven to unlock the verdict.</p>
@@ -117,7 +117,7 @@ export default function NavPillarsSection() {
           {PILLARS.map((pillar, i) => {
             const ratingColor = RATING_COLORS[pillar.rating];
             return (
-              <motion.button key={pillar.id} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.5, delay: i * 0.05 }} onClick={() => toggle(pillar.id)} className="relative aspect-[3/4] sm:aspect-[4/5] perspective-1000 cursor-pointer text-left group" aria-label={`Pillar ${pillar.roman}: ${pillar.title}. ${flipped.has(pillar.id) ? 'Hide' : 'Reveal'} evidence.`}>
+              <motion.button key={pillar.id} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.5, delay: i * 0.05 }} onClick={() => toggle(pillar.id)} className="relative aspect-[3/4] sm:aspect-[4/5] perspective-1000 cursor-pointer text-left group" aria-label={`Pillar ${pillar.roman}: ${pillar.title}. ${flipped.has(pillar.id) ? 'Hide' : 'Reveal'} evidence.`}>
                 <motion.div className="relative w-full h-full preserve-3d transition-transform duration-700" style={{ transform: flipped.has(pillar.id) ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
                   <div className="absolute inset-0 backface-hidden glass-card rounded-2xl p-5 flex flex-col justify-between group-hover:border-gold/40 transition-colors">
                     <div>
@@ -158,7 +158,7 @@ export default function NavPillarsSection() {
             );
           })}
 
-          <motion.div initial={{ opacity: 0, scale: 0.95 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.6, delay: 0.4 }} className={`relative rounded-2xl p-6 min-h-[260px] flex flex-col justify-center text-center transition-all duration-500 ${allFlipped ? 'glass-card-gold glow-gold-strong border-gold/50' : 'glass-card border-cream-dim/15'}`}>
+          <motion.div initial={{ opacity: 0, scale: 0.95 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.6, delay: 0.4 }} className={`relative rounded-2xl p-6 min-h-[260px] flex flex-col justify-center text-center transition-all duration-500 ${allFlipped ? 'glass-card-gold glow-gold-strong border-gold/50' : 'glass-card border-cream-dim/15'}`}>
             <AnimatePresence mode="wait">
               {allFlipped ? (
                 <motion.div key="verdict" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>

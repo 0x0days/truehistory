@@ -41,7 +41,7 @@ export default function AstroPriorityTimeline() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
@@ -82,7 +82,7 @@ export default function AstroPriorityTimeline() {
             <motion.div
               initial={{ opacity: 0, y: 10 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+              viewport={{ once: true, margin: "0px 0px 50% 0px" }}
               transition={{ delay: 0.6 }}
               className="absolute -top-9 left-1/2 -translate-x-1/2 text-center"
               style={{ left: `${(positionFor(964) + positionFor(1543)) / 2}%` }}
@@ -107,7 +107,7 @@ export default function AstroPriorityTimeline() {
             <motion.div
               initial={{ opacity: 0, y: -10 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+              viewport={{ once: true, margin: "0px 0px 50% 0px" }}
               transition={{ delay: 0.8 }}
               className="absolute -bottom-9 left-1/2 -translate-x-1/2 text-center"
               style={{ left: `${(positionFor(1247) + positionFor(1543)) / 2}%` }}
@@ -132,7 +132,7 @@ export default function AstroPriorityTimeline() {
                 key={m.year}
                 initial={{ opacity: 0, y: isTop ? -20 : 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.6, delay: 0.2 + i * 0.1 }}
                 className="absolute"
                 style={{
@@ -174,7 +174,7 @@ export default function AstroPriorityTimeline() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.5 }}
           className="grid sm:grid-cols-3 gap-4 max-w-3xl mx-auto"
         >

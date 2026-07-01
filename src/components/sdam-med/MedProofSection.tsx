@@ -26,12 +26,12 @@ export default function MedProofSection() {
     <section id="proof" ref={ref} className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 manuscript-bg overflow-hidden">
       <motion.div animate={{ rotate: [0, 6, 0], y: [0, -8, 0] }} transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }} className="absolute top-20 right-10 sm:right-20 opacity-20"><Feather className="w-16 h-16 text-gold" /></motion.div>
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4">{tSections('Proof.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight"><span className="text-gradient-gold">1025 CE.</span><br />The Canon of Medicine.</h2>
         </motion.div>
         <div className="grid lg:grid-cols-3 gap-6 mb-8">
-          <motion.div initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
+          <motion.div initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image src="/images/sdam-med/ibnsina-alamy-1.jpg" alt="Authentic page from Ibn Sina's Canon of Medicine manuscript showing Arabic calligraphic medical text" fill sizes="(max-width: 1024px) 100vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep via-cosmos/30 to-transparent" />
@@ -44,7 +44,7 @@ export default function MedProofSection() {
             </div>
             <div className="p-3 border-t border-gold/15 bg-cosmos-deep/50"><p className="text-[9px] font-mono uppercase tracking-widest text-cream-dim/70 text-center italic">Authentic Arabic Canon of Medicine manuscript</p></div>
           </motion.div>
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.15 }} className="glass-card-gold rounded-2xl p-6 relative flex flex-col">
+          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.15 }} className="glass-card-gold rounded-2xl p-6 relative flex flex-col">
             <div className="flex items-center gap-3 mb-4"><Stethoscope className="w-6 h-6 text-gold" /><span className="font-mono text-xs uppercase tracking-widest text-gold/80">The Canon of Medicine</span></div>
             <p className="font-arabic text-3xl text-gold mb-2" dir="rtl">القانون في الطب</p>
             <h3 className="font-display text-xl text-cream mb-1 italic">al-Qānūn fī al-Ṭibb</h3>
@@ -58,7 +58,7 @@ export default function MedProofSection() {
             </div>
             <div className="mt-4 pt-4 border-t border-gold/15"><div className="flex items-center gap-2 text-gold/80 text-xs"><BookOpen className="w-4 h-4" /><span className="font-mono uppercase tracking-wider">Most influential medical textbook ever written</span></div></div>
           </motion.div>
-          <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.3 }} className="glass-card rounded-2xl overflow-hidden relative group">
+          <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.3 }} className="glass-card rounded-2xl overflow-hidden relative group">
             <div className="relative aspect-[4/3] overflow-hidden">
               <Image src="/images/sdam-med/canon-latin-britannica.jpg" alt="Authentic page from the Latin translation of Avicenna's Canon of Medicine with medical woodcut illustrations" fill sizes="(max-width: 1024px) 100vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/90 via-cosmos/20 to-transparent" />
@@ -71,7 +71,7 @@ export default function MedProofSection() {
             <div className="p-3 border-t border-gold/15"><p className="text-[10px] text-cream-dim/70 leading-relaxed italic">The Latin translation of Ibn Sīnā&apos;s Canon — used at European medical schools for 600 years. Attributed to &ldquo;Avicenna.&rdquo; The Arabic author was renamed.</p></div>
           </motion.div>
         </div>
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="glass-card rounded-2xl p-8 sm:p-10 relative flex flex-col">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="glass-card rounded-2xl p-8 sm:p-10 relative flex flex-col">
           <span className="text-gold/30 text-7xl font-display absolute top-2 left-4 select-none leading-none">&ldquo;</span>
           <div className="mt-8 flex-1"><p className={`font-display text-xl sm:text-2xl md:text-3xl text-cream leading-relaxed italic ${!done ? 'cursor-blink' : ''}`}>{typed}</p></div>
           {done && (

@@ -31,18 +31,18 @@ export default function UniProofSection() {
         <Feather className="w-16 h-16 text-gold" />
       </motion.div>
       <div className="max-w-4xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-12">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4">{tSections('Proof.chapterTitle')}</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight"><span className="text-gradient-gold">10th century CE.</span><br />The librarian of Cordoba.</h2>
         </motion.div>
         <div className="grid lg:grid-cols-3 gap-6 mb-8">
-          <motion.div initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group lg:col-span-2">
+          <motion.div initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group lg:col-span-2">
             <div className="relative aspect-[3/2] overflow-hidden">
               <Image src="/images/sdam-uni/madrasa-ucla-1.jpg" alt="Authentic medieval Arabic manuscript page showing scholarly text and calligraphy" fill sizes="(max-width: 1024px) 100vw, 66vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/80 to-transparent" />
             </div>
           </motion.div>
-          <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.2 }} className="glass-card-gold rounded-2xl p-6 flex flex-col justify-center">
+          <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.2 }} className="glass-card-gold rounded-2xl p-6 flex flex-col justify-center">
             <p className="font-arabic text-3xl text-gold mb-2" dir="rtl">لبنة القرطبية</p>
             <h3 className="font-display text-xl text-cream mb-1 italic">Lubna of Cordoba</h3>
             <p className="text-cream-dim text-sm mb-4">10th century CE · al-Andalus</p>
@@ -53,7 +53,7 @@ export default function UniProofSection() {
             </div>
           </motion.div>
         </div>
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="glass-card rounded-2xl p-8 sm:p-10 relative flex flex-col">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.4 }} className="glass-card rounded-2xl p-8 sm:p-10 relative flex flex-col">
           <span className="text-gold/30 text-7xl font-display absolute top-2 left-4 select-none leading-none">&ldquo;</span>
           <div className="mt-8 flex-1">
             <p className={`font-display text-xl sm:text-2xl md:text-3xl text-cream leading-relaxed italic ${!done ? 'cursor-blink' : ''}`}>{typed}</p>

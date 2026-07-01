@@ -41,7 +41,7 @@ const THEFTS: Theft[] = [
     location: 'Toledo, al-Andalus',
     mechanism: 'Toledo\'s libraries — filled with 400 years of Arabic science — fell intact. A systematic translation school was established. Gerard of Cremona alone translated 87 Arabic scientific books into Latin, including works on mechanics and statics.',
     loot: 'The Toledo translation movement (12th–13th c.) transferred the entire Arabic physics corpus into Latin. Al-Khāzini\'s hydrostatic balance became the "science of weights" (scientia de ponderibus) in Latin Europe — the foundation that Galileo and Newton would inherit.',
-    image: '/images/sdam-calculus/toledo-sothebys.jpg',
+    image: '/images/sdam-astro/toledo-sothebys.jpg',
     imageAlt: 'Authentic medieval Latin manuscript page from the Toledo translation tradition with heraldic decoration',
     source: "Sotheby's (Latin manuscript reproduction)",
     icon: Crown,
@@ -122,7 +122,7 @@ export default function GravityLibraryTheftSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-14"
         >
@@ -154,7 +154,7 @@ export default function GravityLibraryTheftSection() {
                 key={theft.id}
                 initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }}
                 whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.7, delay: i * 0.05 }}
                 className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${
                   i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'
@@ -218,7 +218,7 @@ export default function GravityLibraryTheftSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8, delay: 0.4 }}
           className="mt-16 text-center max-w-3xl mx-auto"
         >

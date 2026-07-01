@@ -28,7 +28,7 @@ const THEFTS: Theft[] = [
     location: 'Toledo, al-Andalus',
     mechanism: 'Toledo\'s libraries fell intact. Gerard of Cremona translated 87 Arabic scientific books into Latin, including al-Fazārī\'s astrolabe treatise and the Zīj astronomical tables used for navigation.',
     loot: 'The Arabic astrolabe tradition — including Mariam al-Asturlābiyya\'s manufacturing techniques — entered Latin Europe as the "mariner\'s astrolabe." The spherical trigonometry of al-Bīrūnī became the basis for European celestial navigation. The Arabic authors were renamed or unnamed.',
-    image: '/images/sdam-calculus/toledo-sothebys.jpg',
+    image: '/images/sdam-astro/toledo-sothebys.jpg',
     imageAlt: 'Authentic medieval Latin manuscript page from the Toledo translation tradition',
     source: "Sotheby's (Latin manuscript reproduction)",
     icon: Crown,
@@ -122,7 +122,7 @@ export default function NavLibraryTheftSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-14"
         >
@@ -153,7 +153,7 @@ export default function NavLibraryTheftSection() {
                 key={theft.id}
                 initial={{ opacity: 0, x: i % 2 === 0 ? -30 : 30 }}
                 whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.7, delay: i * 0.05 }}
                 className={`glass-card rounded-2xl overflow-hidden flex flex-col sm:flex-row ${
                   i % 2 === 0 ? 'sm:flex-row' : 'sm:flex-row-reverse'
@@ -217,7 +217,7 @@ export default function NavLibraryTheftSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8, delay: 0.4 }}
           className="mt-16 text-center max-w-3xl mx-auto"
         >

@@ -12,7 +12,7 @@ const FULL_QUOTE =
 export default function ProofSection() {
   const tSections = useTranslations('Sections');
   const ref = useRef<HTMLDivElement>(null);
-  const inView = useInView(ref, { once: true, margin: '-200px' });
+  const inView = useInView(ref, { once: true, margin: '0px 0px 200px 0px' });
   const [typed, setTyped] = useState('');
   const [done, setDone] = useState(false);
 
@@ -49,7 +49,7 @@ export default function ProofSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-12"
         >
@@ -69,7 +69,7 @@ export default function ProofSection() {
           <motion.div
             initial={{ opacity: 0, x: -30 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7 }}
             className="glass-card-gold rounded-2xl overflow-hidden relative group"
           >
@@ -109,7 +109,7 @@ export default function ProofSection() {
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7, delay: 0.15 }}
             className="glass-card-gold rounded-2xl p-6 relative flex flex-col"
           >
@@ -177,7 +177,7 @@ export default function ProofSection() {
           <motion.div
             initial={{ opacity: 0, x: 30 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7, delay: 0.3 }}
             className="glass-card rounded-2xl overflow-hidden relative group"
           >
@@ -215,7 +215,7 @@ export default function ProofSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.4 }}
           className="glass-card rounded-2xl p-8 sm:p-10 relative flex flex-col"
         >

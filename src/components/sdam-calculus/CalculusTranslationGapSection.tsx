@@ -32,7 +32,7 @@ export default function CalculusTranslationGapSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
@@ -58,7 +58,7 @@ export default function CalculusTranslationGapSection() {
           <motion.div
             initial={{ opacity: 0, x: -30 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7 }}
             className="glass-card-gold rounded-2xl p-6 text-center"
           >
@@ -76,7 +76,7 @@ export default function CalculusTranslationGapSection() {
           <motion.div
             initial={{ opacity: 0, y: -20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7, delay: 0.2 }}
             className="glass-card rounded-2xl p-6 text-center relative"
           >
@@ -100,7 +100,7 @@ export default function CalculusTranslationGapSection() {
           <motion.div
             initial={{ opacity: 0, x: 30 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.7, delay: 0.4 }}
             className="glass-card rounded-2xl p-6 text-center"
           >
@@ -121,7 +121,7 @@ export default function CalculusTranslationGapSection() {
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="max-w-3xl mx-auto"
         >
@@ -134,7 +134,7 @@ export default function CalculusTranslationGapSection() {
                 key={n.original}
                 initial={{ opacity: 0, x: -20 }}
                 whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.5, delay: i * 0.08 }}
                 className="grid grid-cols-12 items-center gap-2 glass-card rounded-xl px-4 py-3 hover:border-gold/40 transition-colors"
               >

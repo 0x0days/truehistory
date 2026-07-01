@@ -19,7 +19,7 @@ interface Burst {
 export default function OpticsVerdictSection() {
   const tSections = useTranslations('Sections');
   const ref = useRef<HTMLDivElement>(null);
-  const inView = useInView(ref, { once: true, margin: '-200px' });
+  const inView = useInView(ref, { once: true, margin: '0px 0px 200px 0px' });
   const [score, setScore] = useState(0);
   const [bursts, setBursts] = useState<Burst[]>([]);
   const [showVerdict, setShowVerdict] = useState(false);

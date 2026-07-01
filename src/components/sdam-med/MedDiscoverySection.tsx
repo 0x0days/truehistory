@@ -23,7 +23,7 @@ export default function MedDiscoverySection() {
           <p className="font-mono text-cream-dim tracking-[0.5em] uppercase text-xs sm:text-sm mt-2">Common Era · Baghdad</p>
         </motion.div>
         <motion.div style={{ y: contentY, opacity: contentOpacity }} className="grid md:grid-cols-2 gap-8 items-center max-w-4xl mx-auto">
-          <motion.div initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
+          <motion.div initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7 }} className="glass-card-gold rounded-2xl overflow-hidden relative group">
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image src="/images/sdam-med/alrazi-nlm.jpg" alt="Authentic Arabic medical manuscript page from the National Library of Medicine, in the tradition of al-Razi" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep via-cosmos/40 to-transparent" />
@@ -41,7 +41,7 @@ export default function MedDiscoverySection() {
             <div className="text-gold/40 text-6xl font-display absolute -top-6 -left-2 select-none">&ldquo;</div>
             <blockquote className="font-display text-xl sm:text-2xl md:text-3xl text-cream leading-relaxed italic pl-8 border-l-2 border-gold/40">To determine the healthiest location for the new hospital, I hung pieces of meat at various sites around Baghdad. The site where the meat decayed least had the purest air — and there the hospital was built.</blockquote>
             <p className="text-cream-dim text-sm mt-4 pl-8">— al-Rāzī, recorded in Ibn Abī Uṣaybiʿa&apos;s <em>ʿUyūn al-Anbāʾ</em> (13th century)</p>
-            <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ delay: 0.5, duration: 0.8 }} className="mt-8 pl-8 space-y-3">
+            <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ delay: 0.5, duration: 0.8 }} className="mt-8 pl-8 space-y-3">
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">01</span><span className="text-cream/85 text-sm">The <span className="text-gradient-gold font-semibold">first controlled clinical trial</span> in recorded history.</span></div>
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">02</span><span className="text-cream/85 text-sm">Al-Rāzī also wrote the first medical encyclopedia (Kitāb al-Hāwī), ran the first differential diagnosis of smallpox vs. measles, and treated psychiatric patients with music therapy.</span></div>
               <div className="flex items-baseline gap-2"><span className="text-gold text-xs font-mono">03</span><span className="text-cream/85 text-sm"><span className="text-gradient-gold font-semibold">663 years</span> before the first European hospital with comparable standards.</span></div>
@@ -49,7 +49,7 @@ export default function MedDiscoverySection() {
             </motion.div>
           </div>
         </motion.div>
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ delay: 0.4 }} className="text-center mt-16"><p className="text-cream-dim text-sm">Al-Rāzī started the clinical method. Ibn Sīnā systematized it.</p><p className="text-gold font-display text-xl sm:text-2xl italic mt-2">The Canon of Medicine — Europe&apos;s textbook for 600 years.</p></motion.div>
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ delay: 0.4 }} className="text-center mt-16"><p className="text-cream-dim text-sm">Al-Rāzī started the clinical method. Ibn Sīnā systematized it.</p><p className="text-gold font-display text-xl sm:text-2xl italic mt-2">The Canon of Medicine — Europe&apos;s textbook for 600 years.</p></motion.div>
       </div>
     </section>
   );

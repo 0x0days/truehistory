@@ -39,7 +39,7 @@ export default function PriorityTimeline() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
@@ -86,7 +86,7 @@ export default function PriorityTimeline() {
             <motion.div
               initial={{ opacity: 0, y: 10 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+              viewport={{ once: true, margin: "0px 0px 50% 0px" }}
               transition={{ delay: 0.6, duration: 0.7 }}
               className="absolute -top-10 left-1/2 -translate-x-1/2 text-center"
               style={{
@@ -125,7 +125,7 @@ export default function PriorityTimeline() {
                 key={m.year}
                 initial={{ opacity: 0, y: isTop ? -20 : 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+                viewport={{ once: true, margin: "0px 0px 50% 0px" }}
                 transition={{ duration: 0.6, delay: 0.2 + i * 0.12 }}
                 className="absolute"
                 style={{
@@ -210,7 +210,7 @@ export default function PriorityTimeline() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.7, delay: 0.5 }}
           className="grid sm:grid-cols-3 gap-4 max-w-3xl mx-auto"
         >

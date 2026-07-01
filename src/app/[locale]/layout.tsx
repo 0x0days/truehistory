@@ -8,6 +8,8 @@ import { notFound } from "next/navigation";
 import { routing, getLocaleDirection } from "@/i18n/routing";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import AutoTranslator from "@/components/AutoTranslator";
+import SEOHead from "@/components/SEOHead";
+import StructuredData from "@/components/StructuredData";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -102,6 +104,8 @@ export default async function LocaleLayout({
         className={`${inter.variable} ${cormorant.variable} ${amiri.variable} antialiased bg-cosmos text-cream overflow-x-hidden`}
       >
         <NextIntlClientProvider locale={locale} messages={messages}>
+          <SEOHead />
+          <StructuredData />
           <LanguageSwitcher variant="fixed" />
           <AutoTranslator />
           {children}

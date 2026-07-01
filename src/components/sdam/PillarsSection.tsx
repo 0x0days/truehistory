@@ -156,7 +156,7 @@ export default function PillarsSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+          viewport={{ once: true, margin: "0px 0px 50% 0px" }}
           transition={{ duration: 0.8 }}
           className="text-center mb-12"
         >
@@ -236,7 +236,7 @@ export default function PillarsSection() {
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
-            viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+            viewport={{ once: true, margin: "0px 0px 50% 0px" }}
             transition={{ duration: 0.6, delay: 0.4 }}
             className={`relative rounded-2xl p-6 min-h-[260px] flex flex-col justify-center text-center transition-all duration-500 ${
               allFlipped
@@ -328,7 +328,7 @@ function PillarCard({
     <motion.button
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: "0px 0px 15% 0px" }}
+      viewport={{ once: true, margin: "0px 0px 50% 0px" }}
       transition={{ duration: 0.5, delay: index * 0.05 }}
       onClick={onToggle}
       className="relative aspect-[3/4] sm:aspect-[4/5] perspective-1000 cursor-pointer text-left group"

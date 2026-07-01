@@ -54,14 +54,14 @@ export default function UniWomenScholarsSection() {
   return (
     <section id="others" className="relative min-h-screen flex flex-col items-center justify-center px-6 py-24 manuscript-bg overflow-hidden">
       <div className="max-w-6xl w-full relative z-10">
-        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
+        <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.8 }} className="text-center mb-14">
           <p className="text-[10px] font-mono tracking-[0.4em] uppercase text-gold/70 mb-4 flex items-center justify-center gap-2"><Users className="w-3 h-3" />Chapter 04b — The Women Who Built Universities</p>
           <h2 className="font-display text-4xl sm:text-6xl md:text-7xl text-cream leading-tight">Fatima was not<br /><span className="text-gradient-gold italic">alone.</span></h2>
           <p className="mt-6 text-cream-dim max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">While European women were being denied souls, burned as witches, and excluded from education — the Islamic world had women founding universities, managing libraries of half a million books, financing hospital systems, and teaching mathematics. Four of them, across six centuries.</p>
         </motion.div>
         <div className="grid sm:grid-cols-2 gap-6">
           {SCHOLARS.map((s, i) => (
-            <motion.article key={s.name} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: (i % 2) * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden group flex flex-col sm:flex-row">
+            <motion.article key={s.name} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: (i % 2) * 0.1 }} className="glass-card-gold rounded-2xl overflow-hidden group flex flex-col sm:flex-row">
               <div className="relative sm:w-2/5 aspect-[3/4] sm:aspect-[4/3] overflow-hidden flex-shrink-0">
                 <Image src={s.image} alt={s.imageAlt} fill sizes="(max-width: 640px) 100vw, 40vw" className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                 <div className="absolute inset-0 bg-gradient-to-t from-cosmos-deep/80 via-transparent to-transparent sm:bg-gradient-to-r" />
@@ -82,7 +82,7 @@ export default function UniWomenScholarsSection() {
             </motion.article>
           ))}
         </div>
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 15% 0px" }} transition={{ duration: 0.7, delay: 0.3 }} className="mt-12 text-center max-w-2xl mx-auto">
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true, margin: "0px 0px 50% 0px" }} transition={{ duration: 0.7, delay: 0.3 }} className="mt-12 text-center max-w-2xl mx-auto">
           <p className="text-cream-dim/80 text-xs sm:text-sm italic leading-relaxed">No contemporary portrait of any of these four women survives. The images shown are authentic medieval Islamic manuscript illustrations and surviving architecture from their era and tradition. What survives is not their faces — it is their institutions, their libraries, and the records of those who wrote about them.</p>
         </motion.div>
       </div>
